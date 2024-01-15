@@ -1,0 +1,2218 @@
+file id,CodeGPT,InCoder,UnixCoder,Usage Scenario,Trigger Point,Programming Language
+1686,"ME-T2, AE-1","ME-T2, AE-1","ME-S2, ME-S5",Line Completion,,cpp
+1687,"ME-T1, ME-S1","ME-S2, ME-T3","UO-3, ME-S1",Partial Line Completion,(,cpp
+1688,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Edit,",",cpp
+1689,"ME-T1, ME-S6","ME-T1, ME-T2",ME-T1,Line Completion,*,cpp
+1690,"ME-S3, ME-T2",UO-1,ME-S3,Partial Line Completion,.,cpp
+1691,"ME-S2, ME-T1","ME-S2, ME-T1","ME-T2, ME-T4",Line Completion,for,cpp
+1692,"ME-T1, ME-S1","UO-3, ME-S1","ME-T1, ME-S1",Partial Line Completion,(,cpp
+1693,"ME-S5, NA-1","ME-S5, NA-1","ME-S5, NA-1",NA,/,cpp
+1694,ME-T1,"ME-S3, UO-3","ME-T1, ME-T3",Line Edit,(,cpp
+1695,"AE-4, NA-1","NA-1, AE-4","AE-4, NA-1",NA,=,cpp
+1696,NA-1,NA-1,NA-1,NA,/,cpp
+1697,"ME-T1, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,cpp
+1698,UO-1,UO-1,"ME-T1, ME-S2",Line Completion,+=,cpp
+1699,"ME-S2, AE-1","ME-S2, ME-T3","ME-S2, ME-S7",Line Completion,,cpp
+1700,NA-1,NA-1,NA-1,NA,.,cpp
+1701,NA-2,NA-2,NA-2,Line Edit,(,cpp
+1702,UO-1,ME-T3,ME-T3,Line Completion,<<,cpp
+1703,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,cpp
+1704,ME-T3,"ME-T3, UO-3",ME-T3,Partial Line Completion,(,cpp
+1705,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,cpp
+1706,NA-1,"ME-S5, NA-1",NA-1,NA,/,cpp
+1707,AE-3,AE-3,AE-3,NA,>,cpp
+1708,NA-1,NA-1,NA-1,NA,.,cpp
+1709,"ME-T1, AE-1","ME-S2, AE-1","ME-S2, AE-1",Line Completion,,cpp
+1710,NA-2,NA-2,NA-2,Partial Line Completion,(,cpp
+1711,"ME-T1, ME-T2","UO-3, ME-S1","ME-T1, ME-T2",Line Edit,(,cpp
+1712,UO-1,"ME-T1, AE-1",UO-1,Line Completion,,cpp
+1713,"ME-T1, ME-S1","ME-S2, ME-T3","ME-T3, ME-S1",Line Edit,>,cpp
+1714,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,cpp
+1715,"ME-S3, ME-S1",UO-1,"ME-S3, ME-T1",Partial Line Completion,.,cpp
+1716,"ME-S2, ME-T2",UO-1,ME-S2,Partial Line Completion,(,cpp
+1717,"ME-T3, ME-S1",ME-T3,"ME-T1, ME-T3",Line Edit,>,cpp
+1718,"ME-S5, NA-1","AE-2, NA-1","AE-2, NA-1",NA,/,cpp
+1719,"ME-T2, ME-S1","ME-T1, ME-T2",ME-S3,Line Edit,>,cpp
+1720,"ME-S2, AE-1","ME-S7, AE-1","ME-S7, AE-1",Line Completion,<,cpp
+1721,"ME-T1, AE-1","ME-S2, AE-1","AE-1, ME-T4",Partial Line Completion,,cpp
+1722,NA-1,NA-1,NA-1,NA,return,cpp
+1723,NA-1,NA-1,NA-1,NA,/,cpp
+1724,ME-S3,UO-1,ME-S3,Partial Line Completion,",",cpp
+1725,"ME-T1, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,-,cpp
+1726,"ME-S5, NA-2","UO-1, NA-2","ME-T3, NA-2",Partial Line Completion,<<,cpp
+1727,NA-2,NA-2,NA-2,Line Edit,(,cpp
+1728,"ME-S5, NA-1",NA-1,NA-1,NA,/,cpp
+1729,"ME-T2, ME-S1",ME-S3,"ME-T1, ME-T2",Line Edit,>,cpp
+1730,NA-1,NA-1,NA-1,NA,*,cpp
+1731,"ME-T1, ME-T4","ME-S2, ME-T2","ME-T2, ME-T4",Line Completion,<,cpp
+1732,NA-2,NA-2,NA-2,Partial Line Completion,,cpp
+1733,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,cpp
+1735,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,cpp
+1736,"ME-T2, AE-1","ME-T2, AE-1","ME-S2, AE-1",Partial Line Completion,,cpp
+1737,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,cpp
+1738,"ME-T1, AE-1","ME-T1, AE-1","ME-S5, AE-1",Line Completion,,cpp
+1739,NA-1,NA-1,NA-1,NA,/,cpp
+1740,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,cpp
+1741,NA-1,NA-1,NA-1,NA,if,cpp
+1742,"ME-T3, ME-S7","ME-T2, AE-1","ME-T2, AE-1",Line Edit,=,cpp
+1743,ME-S5,UO-2,"ME-S3, ME-S1",Line Edit,%,cpp
+1744,NA-1,NA-1,NA-1,NA,*,cpp
+1745,"ME-S2, ME-T1",UO-1,"ME-S2, ME-T1",Partial Line Completion,(,cpp
+1746,"ME-S2, AE-1","UO-1, AE-1","ME-T3, AE-1",Line Completion,,cpp
+1747,"ME-S2, ME-T1","ME-S2, ME-T2","ME-S2, ME-S5",Line Completion,>,cpp
+1748,ME-T3,"AE-2, ME-T3","AE-2, ME-T3",Line Completion,=,cpp
+1749,"ME-S2, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Partial Line Completion,(,cpp
+1750,"ME-S7, AE-1","ME-S2, AE-1","ME-S3, AE-1",Line Completion,,cpp
+1751,"ME-T3, ME-S7","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,/,cpp
+1752,"UO-3, NA-2","UO-3, NA-2","UO-3, NA-2",Line Edit,(,cpp
+1753,NA-1,NA-1,NA-1,NA,/,cpp
+1754,"ME-T1, AE-2","ME-T1, UO-3","ME-T1, UO-3",Line Completion,*,cpp
+1755,"ME-T1, ME-T3",ME-T3,"ME-T3, ME-T2",Partial Line Completion,-,cpp
+1756,UO-1,UO-1,UO-1,Line Edit,",",cpp
+1757,AE-3,AE-3,AE-3,NA,,cpp
+1758,"ME-T2, ME-S6",ME-T2,"ME-T2, ME-S1",Line Completion,.,cpp
+1759,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,cpp
+1760,"ME-T2, AE-1","ME-T2, AE-1","ME-S2, AE-1",Line Completion,,cpp
+1761,AE-3,AE-3,AE-3,NA,/,cpp
+1762,"ME-T2, ME-S1","ME-T2, ME-T3","ME-T1, ME-T2",Line Completion,,cpp
+1763,NA-1,NA-1,NA-1,NA,.,cpp
+1764,AE-3,AE-3,AE-3,NA,(,cpp
+1765,NA-2,NA-2,"AE-2, NA-2",Line Completion,>,cpp
+1766,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,cpp
+1767,AE-3,AE-3,AE-3,NA,=,cpp
+1768,"ME-T3, ME-S7","ME-S7, AE-1","ME-T3, ME-S7",Line Completion,<,cpp
+1769,UO-1,"UO-1, ME-S4",ME-S4,Line Edit,",",cpp
+1770,"ME-T2, ME-S5","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,cpp
+1771,"AE-4, AE-1","AE-4, AE-1","AE-4, AE-1",Line Completion,,cpp
+1773,"ME-T2, UO-2","ME-S3, UO-3","ME-S2, UO-2",Line Edit,.,cpp
+1774,"ME-T2, AE-1","AE-2, AE-1","AE-2, AE-1",Line Completion,,cpp
+1775,"AE-2, ME-T1",UO-1,"ME-T1, ME-T4",Line Edit,",",cpp
+1776,UO-1,UO-1,UO-1,Partial Line Completion,",",cpp
+1777,NA-1,NA-1,NA-1,NA,*,cpp
+1778,"ME-S7, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Completion,<,cpp
+1779,"AE-2, ME-S7",UO-1,"AE-2, ME-S2",Line Completion,,cpp
+1780,NA-1,NA-1,NA-1,NA,/,cpp
+1781,AE-3,AE-3,AE-3,NA,>,cpp
+1782,"ME-T1, AE-1","ME-S1, AE-1","ME-T1, AE-1",Partial Line Completion,-,cpp
+1784,"ME-T2, ME-S1","ME-S1, ME-T4","ME-S1, ME-T4",Line Completion,,cpp
+1785,AE-4,AE-4,AE-4,NA,-,cpp
+1786,NA-1,NA-1,NA-1,NA,-,cpp
+1787,NA-1,NA-1,NA-1,NA,/,cpp
+1788,NA-2,NA-2,NA-2,Partial Line Completion,[,cpp
+1790,UO-1,"ME-S3, ME-T1",UO-1,Line Completion,;,cpp
+1791,"ME-S2, ME-T2",UO-1,"ME-S2, ME-T2",Line Completion,.,cpp
+1792,"ME-S3, ME-T2","ME-S2, ME-T2","ME-S2, ME-T2",Line Edit,(,cpp
+1793,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,cpp
+1794,"ME-S2, AE-1","ME-S2, AE-1","ME-S2, AE-1",Line Edit,,cpp
+1795,UO-2,ME-T3,"ME-T3, ME-T2",Partial Line Completion,is,cpp
+1796,UO-1,UO-1,UO-1,Line Completion,/,cpp
+1797,NA-1,NA-1,NA-1,NA,<<,cpp
+1798,"AE-4, AE-1","AE-4, AE-1","ME-S5, AE-4",Line Completion,,cpp
+1799,"ME-T3, AE-4","UO-1, AE-4","ME-T3, AE-4",Line Edit,+,cpp
+1800,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,cpp
+1801,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,cpp
+1802,"ME-S2, ME-T2","ME-S2, ME-T2","ME-S2, ME-T2",Line Edit,(,cpp
+1803,"ME-T3, NA-2","NA-2, ME-S1","ME-T1, NA-2",Line Edit,(,cpp
+1804,NA-2,NA-2,NA-2,NA,.,cpp
+1805,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,cpp
+1806,"ME-S7, AE-1","ME-S7, AE-1","ME-S7, AE-1",Partial Line Completion,-,cpp
+1807,UO-1,ME-T2,"ME-T1, ME-T3",Partial Line Completion,(,cpp
+1808,UO-1,UO-1,"ME-T1, ME-T2",Line Completion,return,cpp
+1809,UO-1,UO-1,UO-1,Line Completion,,cpp
+1810,"ME-T1, AE-1","ME-T1, ME-T3","ME-T1, AE-1",Line Completion,,cpp
+1811,"ME-S5, NA-1",NA-1,NA-1,NA,.,cpp
+1813,"ME-S3, ME-S1","ME-S3, ME-S1","ME-S3, ME-S1",Line Edit,/,cpp
+1814,"ME-T2, AE-1","AE-1, ME-T4","AE-1, ME-T4",Partial Line Completion,,cpp
+1815,NA-1,NA-1,NA-1,NA,&,cpp
+1816,"ME-T2, ME-S1","ME-T2, AE-1","ME-T1, AE-1",Line Edit,,cpp
+1604,"ME-T1, AE-1","UO-1, AE-1","ME-T3, AE-1",Line Completion,,csharp
+1605,"ME-T1, ME-T3","ME-T2, ME-T3",ME-T3,Line Completion,if,csharp
+1606,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,csharp
+1607,"ME-S3, ME-T1",ME-S3,"ME-T1, ME-S1",Line Edit,",",csharp
+1608,UO-1,ME-T3,ME-T3,Line Edit,+,csharp
+1609,"ME-S2, ME-T2","ME-T2, UO-2","AE-2, UO-2",Line Completion,.,csharp
+1610,NA-1,NA-1,NA-1,NA,/,csharp
+1612,NA-2,NA-2,NA-2,Line Completion,,csharp
+1613,"AE-2, ME-S5",UO-1,"ME-S1, ME-T4",Line Edit,(,csharp
+1614,"ME-T1, ME-S2","ME-S2, ME-T2","ME-T2, ME-T3",Line Edit,(,csharp
+1615,"ME-T1, ME-T3",ME-T3,ME-T3,Line Edit,.,csharp
+1616,UO-1,UO-1,UO-1,Partial Line Completion,(,csharp
+1617,"ME-T1, ME-T3","ME-S4, ME-T2","ME-T1, ME-T3",Partial Line Completion,[,csharp
+1618,"ME-T1, ME-T3",UO-1,"AE-2, ME-T3",Line Completion,for,csharp
+1619,UO-1,"ME-T2, ME-T3",UO-1,Line Edit,",",csharp
+1621,"ME-T1, AE-1","ME-S4, ME-T1","ME-S4, ME-T1",Partial Line Completion,,csharp
+1622,"ME-T1, ME-T2","ME-T1, ME-T3","ME-T1, AE-1",Line Completion,,csharp
+1624,"ME-T1, ME-T3","ME-S4, ME-T2",ME-T3,Line Completion,if,csharp
+1625,UO-2,UO-1,ME-T3,Line Edit,.,csharp
+1626,"ME-T1, ME-T3","ME-T1, ME-T3",UO-1,Line Completion,if,csharp
+1627,"ME-S7, AE-1","AE-2, ME-T3","AE-2, ME-T3",Line Edit,=,csharp
+1628,UO-2,"ME-T2, ME-S1",ME-T3,Line Completion,.,csharp
+1629,"ME-T1, ME-T2",UO-1,"ME-T2, ME-T3",Line Completion,-=,csharp
+1630,"ME-T3, ME-T2",ME-S3,ME-T2,Partial Line Completion,*,csharp
+1631,ME-T3,ME-T3,ME-T3,Line Completion,return,csharp
+1632,"ME-S3, ME-S1",ME-S3,ME-S3,Line Edit,==,csharp
+1633,"ME-T2, ME-S1",UO-1,"ME-T1, ME-T2",Partial Line Completion,.,csharp
+1634,UO-1,UO-1,UO-1,Line Completion,,csharp
+1635,NA-2,NA-2,NA-2,Partial Line Completion,.,csharp
+1637,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,csharp
+1638,"ME-T1, ME-T3",ME-T3,ME-T3,Partial Line Completion,(,csharp
+1639,"ME-T1, NA-2","ME-T2, NA-2","ME-T2, NA-2",Line Edit,[,csharp
+1640,ME-T3,ME-T3,ME-T3,Line Completion,=,csharp
+1672,"ME-T2, ME-S6","ME-S3, ME-T2","ME-S3, ME-T2",Line Completion,.,css
+1673,UO-1,"ME-T1, AE-1","ME-S4, ME-T1",Line Completion,-,css
+1674,ME-T2,ME-T2,"ME-T1, ME-S5",Line Completion,-,css
+1675,ME-S5,ME-T2,"ME-S5, UO-3",Line Completion,.,css
+1676,ME-T2,ME-T2,ME-T2,Line Completion,.,css
+1677,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,-,css
+1678,"ME-T2, AE-1",UO-1,UO-1,Line Completion,.,css
+1679,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,css
+1680,"ME-S6, ME-S5","ME-S4, ME-T2","ME-T1, ME-T2",Line Completion,,css
+1681,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,css
+1682,NA-1,NA-1,NA-1,NA,/,css
+1683,"AE-2, ME-T3","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,css
+1684,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,css
+1685,NA-2,NA-2,NA-2,Line Edit,.,css
+1523,"ME-S3, ME-T2",ME-T2,"ME-T2, ME-S1",Line Completion,<,html
+1524,"ME-S3, ME-T2","ME-T2, ME-S6","ME-T2, ME-S1",Line Completion,<,html
+1525,NA-2,NA-2,NA-2,Line Edit,,html
+1526,"AE-2, ME-S5","ME-T1, AE-2","ME-T1, AE-2",Partial Line Completion,{,html
+1527,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,html
+1528,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,,html
+1529,NA-1,NA-1,NA-1,NA,,html
+1530,NA-1,NA-1,NA-1,NA,,html
+1531,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,html
+1532,NA-1,NA-1,NA-1,NA,<,html
+1533,AE-3,AE-3,AE-3,NA,,html
+1534,NA-1,NA-1,NA-1,NA,<,html
+1535,NA-1,NA-1,NA-1,NA,=,html
+1536,"AE-1, UO-2","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,html
+1537,"AE-2, ME-T3","ME-T3, ME-S7","ME-T3, ME-S7",Partial Line Completion,=,html
+1538,AE-3,AE-3,AE-3,NA,,html
+1539,"AE-4, AE-1","ME-T3, AE-4","ME-T1, AE-4",Partial Line Completion,,html
+1540,NA-1,NA-1,"ME-S5, NA-1",NA,",",html
+1541,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Completion,,html
+1542,"ME-T2, AE-1","AE-2, ME-T2","AE-2, ME-T2",Line Edit,-,html
+1543,ME-T3,ME-T3,ME-T3,Line Completion,,html
+1544,NA-1,NA-1,NA-1,NA,-,html
+1545,NA-1,NA-1,NA-1,NA,==,html
+1546,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,<,html
+1547,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,html
+1548,NA-1,NA-1,NA-1,NA,",",html
+1549,NA-1,NA-1,NA-1,NA,,html
+1550,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,html
+1551,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,html
+1552,"ME-S7, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,html
+1553,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,html
+1554,NA-1,"ME-S5, NA-1",NA-1,NA,<,html
+1555,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,html
+1556,"ME-S5, NA-1",NA-1,NA-1,NA,,html
+1557,AE-3,AE-3,AE-3,NA,,html
+1558,NA-1,NA-1,"ME-S5, NA-1",NA,=,html
+1559,"ME-S1, AE-1","ME-T1, AE-1","ME-T3, AE-1",Partial Line Completion,,html
+1560,"ME-T1, ME-T3","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,=,html
+1561,"ME-S4, NA-2","ME-T3, NA-2","ME-T3, NA-2",Partial Line Completion,;,html
+1562,NA-1,NA-1,NA-1,NA,,html
+1563,NA-1,NA-1,NA-1,NA,-,html
+1564,"ME-T3, AE-1","UO-1, AE-1","AE-1, UO-2",Partial Line Completion,,html
+1565,"ME-T2, ME-T3","ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,<,html
+1566,"ME-T2, ME-S7","ME-S3, ME-T3","ME-S3, ME-T3",Line Completion,<,html
+1567,NA-1,NA-1,NA-1,NA,=,html
+1568,"AE-2, ME-S5","ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,<,html
+1569,"ME-S5, NA-1","ME-S5, NA-1","ME-S5, NA-1",NA,,html
+1570,UO-1,UO-1,UO-1,Line Completion,/,html
+1571,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,html
+1572,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,html
+1573,NA-1,NA-1,NA-1,NA,<,html
+1574,NA-1,"AE-2, NA-1","AE-2, NA-1",NA,,html
+1575,AE-3,AE-3,AE-3,NA,,html
+1576,"ME-S7, ME-S1",ME-T3,ME-S5,Partial Line Completion,=,html
+1577,AE-3,AE-3,AE-3,NA,-,html
+1578,"ME-T3, ME-S1",ME-T3,"ME-T3, ME-S7",Partial Line Completion,=,html
+1579,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Completion,,html
+1580,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,html
+1581,AE-3,AE-3,AE-3,NA,,html
+1582,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,html
+1583,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,html
+1584,"ME-T3, ME-S1","ME-T1, ME-T3","ME-T1, ME-T3",Partial Line Completion,;,html
+569,"AE-2, ME-T1","ME-T1, AE-2","AE-2, UO-3",Line Completion,(,java
+570,NA-2,NA-2,"ME-T2, NA-2",Line Completion,return,java
+572,"ME-S7, AE-1","ME-S7, AE-1","ME-S7, AE-1",Line Completion,+,java
+573,NA-1,NA-1,NA-1,NA,in,java
+575,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,if,java
+576,"ME-S2, ME-T1","ME-S2, ME-S7","ME-T1, UO-3",Line Completion,if,java
+577,NA-1,NA-1,NA-1,NA,return,java
+578,UO-1,UO-1,UO-1,Line Completion,=,java
+579,NA-1,NA-1,NA-1,NA,is,java
+580,"ME-T3, ME-T2","ME-T2, ME-T3","ME-T2, ME-T3",Line Completion,*,java
+581,NA-1,NA-1,NA-1,NA,and,java
+582,"ME-S2, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,=,java
+583,NA-2,NA-2,NA-2,Line Completion,(,java
+584,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,if,java
+585,"ME-T1, ME-S1","AE-2, ME-S1","ME-T3, ME-S1",Line Completion,(,java
+586,"ME-T3, ME-S6","AE-2, ME-T3","ME-T3, ME-S6",Line Completion,=,java
+587,NA-1,NA-1,NA-1,NA,(,java
+588,"AE-2, ME-S5",UO-1,"ME-T1, ME-S2",Line Completion,.,java
+589,NA-1,NA-1,NA-1,NA,.,java
+590,"ME-T2, ME-S1",UO-1,UO-1,Line Completion,.,java
+591,NA-2,NA-2,NA-2,Line Completion,(,java
+592,"ME-S5, NA-2","ME-T3, NA-2","ME-T3, NA-2",Line Completion,(,java
+593,"ME-T1, UO-3","ME-T1, UO-3","ME-T1, UO-3",Line Completion,.,java
+595,"ME-T2, ME-T3","ME-S4, ME-T2","ME-T2, ME-T3",Line Completion,if,java
+596,"AE-2, ME-S5","AE-2, ME-T3","ME-S2, ME-T3",Line Completion,return,java
+597,"ME-S5, NA-1",NA-1,NA-1,NA,assert,java
+598,"ME-S2, ME-T1","ME-T3, UO-3","ME-T2, ME-T3",Line Completion,.,java
+601,ME-T1,"ME-S6, UO-2","ME-S6, UO-2",Line Completion,(,java
+602,NA-2,NA-2,NA-2,Line Completion,(,java
+603,"ME-T1, ME-S1",UO-1,ME-S1,Line Completion,(,java
+604,UO-1,UO-1,UO-1,Line Completion,=,java
+605,"ME-T1, ME-S1","ME-S6, ME-S1","ME-T1, ME-S1",Line Completion,(,java
+606,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,.,java
+608,NA-2,NA-2,NA-2,Line Completion,(,java
+609,NA-1,NA-1,NA-1,NA,/,java
+610,"AE-2, ME-S5","ME-T3, ME-S1","ME-T3, ME-S1",Line Completion,.,java
+611,UO-1,UO-1,UO-1,Line Completion,(,java
+613,NA-2,"ME-S7, NA-2","ME-S7, NA-2",Line Completion,[,java
+614,"ME-T2, ME-S1","ME-T2, ME-T3","ME-T3, ME-T2",Line Completion,.,java
+615,UO-1,UO-1,UO-1,Line Completion,=,java
+616,"ME-T2, ME-S1","UO-3, UO-2","ME-T2, ME-T3",Line Completion,=,java
+617,UO-1,"AE-2, ME-T3",UO-1,Line Completion,=,java
+618,NA-1,NA-1,NA-1,NA,[,java
+619,NA-1,NA-1,"ME-S5, NA-1",NA,/,java
+620,"UO-3, NA-2","UO-3, NA-2","UO-3, NA-2",Line Completion,or,java
+621,"NA-2, AE-1","NA-2, AE-1","NA-2, AE-1",Line Edit,,java
+622,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,java
+623,NA-1,NA-1,NA-1,NA,/,java
+624,NA-1,NA-1,"NA-1, AE-1",NA,/,java
+625,NA-1,NA-1,NA-1,NA,,java
+626,"ME-T1, ME-T2",ME-T1,"ME-T1, ME-T2",Partial Line Completion,>,java
+627,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,java
+628,"ME-T1, AE-1",UO-1,"ME-T1, AE-1",Partial Line Completion,,java
+629,"ME-T1, ME-T2",UO-1,UO-1,Partial Line Completion,>,java
+630,AE-3,AE-3,AE-3,NA,,java
+631,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,java
+632,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,java
+633,"ME-T1, ME-T3","ME-T3, ME-T4","ME-T3, ME-T4",Line Completion,=,java
+634,NA-1,NA-1,NA-1,NA,(,java
+635,NA-1,NA-1,NA-1,NA,.,java
+636,UO-1,UO-1,UO-1,Line Completion,,java
+637,NA-1,NA-1,NA-1,NA,,java
+638,"ME-T1, ME-T3",ME-T3,"ME-T3, ME-T4",Line Completion,=,java
+639,"ME-S2, AE-4","ME-S2, AE-4","ME-S2, AE-4",Line Completion,.,java
+640,"ME-S2, ME-T2","ME-S2, ME-T2","ME-T1, ME-S2",Line Completion,==,java
+641,"ME-T1, ME-T2","ME-S3, ME-T2","ME-T2, ME-S1",Line Edit,.,java
+642,"ME-T1, ME-T3","ME-T3, ME-T4","ME-T2, ME-T3",Line Completion,=,java
+643,"AE-4, AE-1","AE-4, AE-1","AE-4, AE-1",Partial Line Completion,<,java
+644,NA-1,NA-1,"ME-S6, NA-1",NA,,java
+645,"AE-1, ME-T4","AE-1, ME-T4","AE-1, ME-T4",Line Edit,,java
+646,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,java
+647,"ME-T2, NA-2","UO-1, NA-2","ME-T2, NA-2",NA,+,java
+648,NA-1,NA-1,NA-1,NA,,java
+649,NA-1,NA-1,NA-1,NA,/,java
+651,NA-1,NA-1,NA-1,NA,-,java
+652,"ME-T1, ME-T4","ME-T1, ME-T4","ME-T1, ME-T4",Line Edit,,java
+653,NA-1,NA-1,NA-1,NA,,java
+655,NA-1,NA-1,NA-1,NA,,java
+656,"ME-T1, ME-T2","ME-T1, ME-T2",ME-T2,Line Edit,(,java
+657,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Partial Line Completion,{,java
+658,"ME-T1, AE-1","UO-1, AE-1","ME-T1, AE-1",Partial Line Completion,,java
+659,NA-1,NA-1,NA-1,NA,/,java
+660,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,java
+661,NA-1,NA-1,NA-1,NA,=,java
+662,NA-1,NA-1,"NA-1, AE-1",NA,,java
+663,"ME-T1, ME-T2",UO-1,ME-T2,Line Edit,,java
+664,"ME-S4, ME-T2",ME-T2,"ME-T2, ME-S1",Line Edit,.,java
+665,NA-1,NA-1,NA-1,NA,/,java
+666,NA-1,NA-1,NA-1,NA,,java
+667,"ME-T1, ME-T3",ME-T1,ME-S5,Line Edit,.,java
+668,NA-1,NA-1,NA-1,NA,/,java
+669,NA-1,NA-1,NA-1,NA,,java
+670,NA-1,NA-1,NA-1,NA,.,java
+671,NA-1,NA-1,NA-1,NA,.,java
+672,"NA-2, ME-S1","NA-2, ME-S1","NA-2, ME-S1",Line Edit,(,java
+1180,"ME-T2, ME-S1","ME-S3, ME-T1","ME-T1, ME-T2",Line Completion,.,js
+1181,"ME-T1, NA-2","ME-T1, NA-2","ME-T1, NA-2",Line Completion,(,js
+1182,"AE-2, ME-S6","ME-S4, ME-T3","ME-T3, ME-S6",Line Completion,.,js
+1183,"ME-T3, ME-T2","ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,.,js
+1184,NA-2,NA-2,NA-2,Line Completion,[,js
+1185,"ME-T1, ME-S2",ME-T1,ME-T1,Line Completion,[,js
+1186,UO-1,UO-1,UO-1,Line Completion,{,js
+1187,"ME-S4, ME-S6",UO-1,"ME-T2, ME-S1",Line Completion,<,js
+1188,"AE-2, NA-2","AE-2, NA-2","AE-2, NA-2",Line Completion,(,js
+1189,UO-1,UO-1,ME-T1,Line Completion,.,js
+1190,"ME-T3, ME-T4",ME-T3,ME-T3,Line Completion,=,js
+1192,NA-1,NA-1,"NA-1, AE-1",NA,-,js
+1193,"ME-T2, NA-2","ME-T2, NA-2","ME-T2, NA-2",Line Completion,<,js
+1194,"ME-S6, ME-T4","ME-T1, ME-T2",ME-T1,Line Completion,.,js
+1195,"ME-S2, NA-2","ME-T1, NA-2","ME-S2, NA-2",Line Completion,=,js
+1196,"ME-S3, ME-T1",UO-1,UO-1,Line Completion,=,js
+1197,ME-T1,ME-T1,ME-T1,Line Completion,.,js
+1198,ME-T1,"ME-S2, ME-T1","ME-S2, ME-T1",Line Completion,.,js
+1199,"ME-T2, ME-S7","ME-S4, ME-T3",ME-S2,Line Completion,return,js
+1200,"AE-4, NA-1","AE-4, NA-1","AE-4, NA-1",NA,.,js
+1201,UO-1,UO-1,UO-1,Line Completion,=,js
+1202,ME-S2,"ME-S2, UO-3","ME-S4, ME-T2",Line Completion,=,js
+1203,UO-1,ME-T1,"ME-T1, ME-T2",Line Completion,.,js
+1204,"ME-T3, ME-T4","ME-T3, ME-T4","ME-T3, ME-T4",Line Completion,=,js
+1205,"ME-T2, ME-S1","AE-2, ME-T2","AE-2, ME-T2",Line Completion,=,js
+1206,"ME-T2, ME-S1","ME-S2, AE-2","ME-S2, AE-2",Line Completion,.,js
+1207,"ME-S2, ME-T1","ME-S2, UO-3","ME-T1, ME-S7",Line Completion,=,js
+1208,"ME-S2, ME-T2","ME-T1, ME-T2","ME-S2, ME-T1",Line Completion,.,js
+1209,"ME-T2, ME-S1","ME-S2, ME-S6","ME-S6, ME-S1",Line Completion,[,js
+1210,"ME-T1, ME-S2",UO-1,"ME-T1, ME-T2",Line Completion,.,js
+1211,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,.,js
+1212,UO-1,UO-1,UO-1,Line Completion,(,js
+1213,"ME-T3, ME-S6",ME-T3,ME-T3,Line Completion,=,js
+1214,UO-1,ME-T1,UO-1,Line Completion,.,js
+1215,UO-1,UO-1,UO-1,Line Completion,.,js
+1216,ME-T3,"ME-T3, ME-S1","ME-T3, ME-S1",Line Completion,{,js
+1217,UO-1,ME-T3,UO-1,Line Completion,{,js
+1218,ME-T1,UO-1,ME-T1,Line Completion,[,js
+1219,UO-1,UO-1,"ME-T2, ME-S1",Line Completion,.,js
+1220,"ME-T1, AE-1","ME-T1, ME-S6","ME-T1, AE-1",Line Completion,.,js
+1221,UO-1,UO-1,UO-1,Line Completion,{,js
+1222,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S7",Line Completion,<,js
+1223,UO-1,"ME-T2, ME-T3","ME-T2, ME-T3",Line Completion,*,js
+1224,"ME-S3, ME-T1",UO-1,ME-T1,Line Completion,(,js
+1225,"ME-T1, ME-S2","ME-S2, ME-T1","ME-S2, ME-T1",Line Completion,=,js
+1226,NA-1,NA-1,NA-1,NA,*,js
+1227,ME-S3,"ME-S3, AE-2","ME-S2, AE-2",Line Completion,=,js
+1228,"ME-S2, ME-T3","ME-S2, ME-T2",UO-1,Line Completion,=,js
+1229,ME-T3,ME-T3,ME-T3,Line Completion,.,js
+1230,ME-T1,ME-T1,UO-1,Line Completion,.,js
+1232,"ME-S2, ME-T1",ME-T1,"ME-T1, ME-S2",Line Completion,.,js
+1233,"ME-S2, NA-2","ME-T1, NA-2","ME-S2, NA-2",Line Completion,.,js
+1234,"ME-T1, ME-T2","ME-T3, ME-S1","UO-3, ME-S1",Line Completion,(,js
+1235,ME-T3,ME-T3,ME-T3,Line Completion,{,js
+1237,"ME-T1, ME-S2","ME-S3, ME-T1","ME-S2, AE-2",Line Completion,return,js
+1238,"ME-T1, ME-T3",ME-T3,"ME-T1, ME-T2",Line Completion,=,js
+1239,"ME-T3, ME-S6","ME-T3, ME-T4","ME-T3, ME-T4",Line Completion,=,js
+1240,NA-1,NA-1,NA-1,NA,else,js
+1242,"AE-2, NA-2","AE-2, NA-2","AE-2, NA-2",Line Completion,if,js
+1243,"ME-T1, AE-4","ME-T1, AE-4","ME-T1, AE-4",Line Completion,(,js
+1244,NA-1,NA-1,NA-1,NA,return,js
+1245,ME-T3,ME-T3,ME-T3,Line Completion,{,js
+1246,"ME-S3, ME-S7","ME-T1, ME-T2","ME-S4, ME-T1",Line Completion,return,js
+1247,"ME-T1, ME-S2","ME-S2, UO-3","ME-T1, ME-S2",Line Completion,.,js
+1248,NA-1,NA-1,NA-1,NA,(,js
+1249,NA-1,NA-1,NA-1,NA,{,js
+1250,"ME-T1, ME-T2","ME-S3, ME-T2","ME-T1, ME-T2",Line Completion,return,js
+1251,"ME-T2, ME-S1","AE-2, ME-T2","AE-2, ME-T2",Line Completion,=,js
+1252,"ME-T1, ME-T3","ME-T3, ME-S6",ME-T3,Line Completion,in,js
+1253,NA-1,NA-1,NA-1,NA,+,js
+1254,"ME-S2, ME-T2","ME-S2, ME-T1","ME-S2, ME-T1",Line Completion,.,js
+1255,NA-2,NA-2,NA-2,Line Completion,[,js
+1256,"ME-T2, ME-S1","AE-2, ME-T2","AE-2, ME-T2",Line Completion,=,js
+1257,UO-1,UO-1,UO-1,Line Completion,(,js
+1258,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Line Completion,(,js
+1259,"ME-S4, ME-T1",UO-1,UO-1,Line Completion,.,js
+1260,NA-1,NA-1,NA-1,NA,=,js
+1261,NA-1,NA-1,NA-1,NA,=,js
+1262,ME-T1,ME-S2,ME-T1,Line Completion,=,js
+1263,"ME-T2, ME-T3","ME-T1, ME-T2","ME-T3, ME-T2",Line Completion,.,js
+1264,UO-1,UO-1,UO-1,Line Completion,.,js
+1265,NA-1,"ME-S5, NA-1",NA-1,NA,/,js
+1266,NA-2,NA-2,NA-2,NA,<,js
+1268,ME-S7,ME-S4,"ME-T2, ME-S5",Line Completion,/,js
+1270,"ME-S2, ME-T2","ME-T2, ME-S1",ME-S2,Line Completion,return,js
+1271,"ME-S2, ME-T1","ME-S3, ME-T3","ME-S2, ME-T1",Line Completion,{,js
+1272,"ME-T3, ME-S1",ME-T3,"ME-T3, ME-S1",Line Completion,[,js
+1273,NA-1,NA-1,NA-1,NA,.,js
+1274,"ME-S2, ME-T2","ME-S2, AE-2","ME-T1, AE-2",Line Completion,.,js
+1275,"ME-T2, ME-S1","ME-S2, ME-T2",ME-T2,Line Completion,.,js
+1276,NA-2,NA-2,NA-2,Line Completion,{,js
+1277,"ME-T1, ME-T2",ME-T1,"ME-T1, ME-T2",Line Completion,.,js
+1278,NA-2,NA-2,NA-2,Line Completion,return,js
+1279,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Completion,(,js
+1280,UO-1,"ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,[,js
+1281,ME-T1,"ME-T2, ME-S6","ME-T2, ME-S6",Line Completion,.,js
+1282,"ME-S3, ME-T2","ME-T1, ME-T2","ME-T2, ME-S1",Line Completion,.,js
+1283,"ME-S3, ME-T1","ME-T1, ME-T2",ME-T1,Line Completion,if,js
+1284,"ME-T2, ME-S1","ME-T1, ME-T2","ME-T2, ME-S1",Line Completion,.,js
+1285,"ME-S2, ME-T2","ME-S2, ME-T1","ME-S2, ME-S7",Line Completion,(,js
+1286,ME-T1,"ME-T1, ME-T2",ME-T1,Line Completion,.,js
+1287,NA-2,NA-2,NA-2,Line Completion,(,js
+1288,"ME-S2, ME-T2","ME-S2, ME-T1","ME-S2, ME-T2",Line Completion,(,js
+1289,ME-T2,UO-1,ME-T2,Line Completion,=,js
+1290,"ME-T2, ME-S1","ME-T2, ME-T3","ME-T2, ME-T3",Line Completion,.,js
+1291,NA-1,NA-1,NA-1,NA,if,js
+1292,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Line Completion,{,js
+1293,UO-1,"AE-2, ME-T3","AE-2, ME-T3",Line Edit,/,js
+1294,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,(,js
+1295,"ME-T1, ME-S1",UO-1,"ME-T1, ME-S1",Partial Line Completion,,js
+1296,"ME-T2, ME-S1","AE-2, UO-3",UO-1,Line Edit,(,js
+1297,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,js
+1298,"ME-T1, ME-T2",ME-S3,"ME-T1, ME-T2",Line Completion,if,js
+1299,"ME-T1, ME-S1","ME-S3, UO-3","ME-T1, ME-S1",Line Edit,{,js
+1300,AE-3,AE-3,AE-3,NA,.,js
+1301,NA-1,"AE-2, NA-1","AE-2, NA-1",NA,yield,js
+1302,"ME-S5, AE-1","ME-T1, AE-1","ME-T2, AE-1",Line Completion,,js
+1303,NA-1,"NA-1, AE-1","NA-1, AE-1",NA,,js
+1304,"AE-2, ME-T2","AE-2, ME-T2",UO-1,Line Completion,,js
+1305,"UO-3, NA-2","UO-3, NA-2","UO-3, NA-2",Line Edit,(,js
+1306,"ME-T1, AE-1","ME-T3, AE-1","ME-S1, AE-1",Partial Line Completion,,js
+1307,ME-T1,ME-T1,ME-T1,Partial Line Completion,.,js
+1308,"ME-S2, AE-1","ME-S2, AE-1","ME-S2, AE-1",Line Completion,,js
+1309,NA-1,NA-1,NA-1,NA,.,js
+1310,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,js
+1311,"AE-2, ME-T2","AE-2, ME-T2","AE-2, ME-T2",Line Edit,.,js
+1312,UO-1,UO-1,UO-1,Line Completion,=,js
+1313,"ME-S2, ME-T3","ME-T3, ME-S1","ME-T2, ME-S1",Line Completion,=,js
+1314,"ME-T1, ME-S1",UO-1,UO-1,Partial Line Completion,",",js
+1315,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,js
+1317,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,js
+1318,NA-2,NA-2,NA-2,Line Edit,,js
+1319,"ME-S4, ME-T1","ME-T1, ME-T3","ME-T2, UO-3",Line Edit,[,js
+1320,"ME-T2, AE-1",UO-1,"UO-1, AE-1",Line Completion,,js
+1321,NA-2,"ME-S1, NA-2","ME-S1, NA-2",NA,(,js
+1322,NA-1,NA-1,NA-1,NA,(,js
+1323,NA-1,NA-1,NA-1,NA,/,js
+1324,ME-T1,"ME-T1, ME-T2",ME-T1,Partial Line Completion,.,js
+1325,UO-1,ME-T3,UO-1,Partial Line Completion,.,js
+1326,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,(,js
+1327,"AE-2, ME-T3","AE-2, ME-S7","AE-2, ME-T3",Line Edit,(,js
+1328,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,js
+1329,"AE-2, ME-S5","AE-2, ME-T3","AE-2, ME-T3",NA,/,js
+1330,ME-T3,"ME-T3, ME-S5",ME-T3,Partial Line Completion,with,js
+1331,"ME-T3, ME-S1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,js
+1332,"AE-2, NA-2","AE-2, NA-2","AE-2, NA-2",Partial Line Completion,/,js
+1333,UO-1,UO-1,UO-1,Partial Line Completion,",",js
+1334,"ME-S1, AE-1","ME-S7, AE-1","ME-T1, AE-1",Partial Line Completion,,js
+1335,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,js
+1336,ME-T1,ME-T1,ME-T1,Line Edit,(,js
+1337,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,js
+1338,ME-S2,"ME-T1, ME-T2","AE-2, ME-T2",Partial Line Completion,.,js
+1339,NA-1,NA-1,NA-1,NA,,js
+1340,"ME-S2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,/,js
+1341,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T2, ME-T3",Partial Line Completion,(,js
+1342,NA-1,NA-1,NA-1,NA,(,js
+1343,"ME-T1, ME-S1","ME-S4, ME-T2",UO-2,Line Completion,.,js
+1344,UO-1,UO-1,UO-1,Line Completion,=,js
+1345,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,js
+1346,"ME-T2, ME-S1","ME-S2, ME-T2","ME-T2, ME-S1",Partial Line Completion,.,js
+1347,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Line Edit,(,js
+1348,NA-2,NA-2,NA-2,Line Edit,{,js
+1349,UO-1,"UO-1, ME-S6",UO-1,Line Completion,,js
+1350,"ME-T1, AE-2","ME-T1, AE-2","ME-T1, AE-2",Line Completion,,js
+1351,NA-1,NA-1,"ME-S5, NA-1",NA,/,js
+1352,"ME-T1, ME-T3","UO-1, UO-3","ME-T1, ME-T3",Partial Line Completion,/,js
+1353,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,js
+1354,AE-3,AE-3,AE-3,NA,",",js
+1355,ME-T1,"ME-T1, ME-T2","ME-S3, ME-T1",Line Completion,.,js
+1356,"ME-T1, ME-T2","ME-S3, ME-T2","AE-2, ME-T2",Line Completion,return,js
+1357,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T3, ME-S5",Line Edit,(,js
+1358,"ME-T1, ME-T3","ME-T2, UO-3","AE-2, ME-T3",Partial Line Completion,{,js
+1359,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,js
+1360,"ME-S3, AE-1","ME-T1, AE-1","ME-S2, AE-1",Partial Line Completion,,js
+1361,"AE-2, ME-S1","AE-2, ME-S1","AE-2, ME-S1",NA,(,js
+1362,"ME-T1, ME-T2",UO-1,"ME-T1, ME-T2",Line Completion,.,js
+1363,"AE-2, ME-T3",UO-1,UO-1,Partial Line Completion,/,js
+1364,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",NA,/,js
+1365,NA-1,NA-1,NA-1,NA,/,js
+1366,"ME-T2, ME-S7","ME-T3, AE-1","ME-S7, AE-1",Line Edit,=,js
+1367,"AE-2, ME-T3","ME-S2, ME-T3","ME-S2, ME-T3",Line Completion,return,js
+1368,NA-1,"NA-1, AE-1","NA-1, AE-1",NA,,js
+1369,"ME-S2, ME-T1","ME-S2, ME-T1","ME-S2, ME-S7",Line Edit,>,js
+1370,NA-1,"ME-S5, NA-1",NA-1,NA,/,js
+1371,NA-1,NA-1,NA-1,NA,/,js
+1372,ME-T3,"ME-S4, ME-T3",ME-T3,Partial Line Completion,",",js
+1373,AE-3,AE-3,AE-3,NA,",",js
+1374,"ME-T1, AE-1","ME-T1, AE-1","ME-S3, AE-1",Line Completion,,js
+1375,"ME-S2, AE-4","UO-1, AE-4","ME-S2, AE-4",Partial Line Completion,-,js
+1376,"ME-S1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,js
+1377,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Partial Line Completion,(,js
+1378,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Edit,(,js
+1379,"ME-T1, ME-S1","ME-T1, AE-2","AE-2, ME-S1",Partial Line Completion,.,js
+1380,"ME-S4, ME-T2","ME-S2, ME-T2","ME-S2, ME-T2",Line Edit,.,js
+1381,NA-1,NA-1,NA-1,NA,{,js
+1382,NA-1,"AE-2, NA-1","AE-2, NA-1",NA,,js
+1383,"ME-S2, AE-2","AE-2, ME-T1","AE-2, ME-T3",Line Completion,*,js
+1384,"ME-T1, ME-T3","ME-T2, ME-T3","ME-T3, ME-T2",Line Completion,.,js
+1386,"ME-S2, AE-1","ME-S2, AE-1","ME-S2, AE-1",Line Completion,,js
+1387,"ME-T1, ME-S1","ME-T1, ME-T2","ME-T1, ME-S1",Line Edit,,js
+1388,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,js
+1389,NA-1,"ME-S5, NA-1",NA-1,NA,/,js
+1390,NA-2,NA-2,NA-2,NA,{,js
+1391,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,js
+1392,"AE-2, ME-T1","AE-2, ME-S7","AE-2, ME-T1",Line Completion,for,js
+1393,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,.,js
+1394,"ME-T1, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Completion,,js
+1395,"ME-T1, ME-T3","ME-S4, ME-T1",ME-T1,Partial Line Completion,",",js
+1396,NA-1,NA-1,NA-1,NA,>,js
+1397,UO-1,UO-1,UO-1,Partial Line Completion,.,js
+1398,"ME-T1, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,js
+1399,"ME-S1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,js
+1400,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,js
+1401,"AE-2, ME-T3","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,.,js
+1402,ME-T2,"ME-S2, ME-T1",ME-T2,Line Edit,{,js
+1403,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,js
+1404,AE-3,AE-3,AE-3,NA,(,js
+1405,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Partial Line Completion,(,js
+1406,UO-1,UO-1,UO-1,Partial Line Completion,(,js
+1407,UO-1,UO-1,UO-1,Partial Line Completion,",",js
+1408,"ME-T3, AE-1","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,js
+1410,NA-1,NA-1,NA-1,NA,(,js
+1411,NA-1,NA-1,NA-1,NA,,js
+1412,AE-3,AE-3,AE-3,NA,&,js
+1413,AE-3,AE-3,AE-3,NA,=,js
+1414,UO-1,UO-1,UO-1,Line Edit,",",js
+1415,ME-T1,ME-T1,ME-T1,Line Edit,(,js
+1416,ME-T3,"ME-S4, ME-T2","ME-S4, ME-T2",Line Edit,(,js
+1417,"ME-T1, ME-T3",ME-T1,"ME-T1, ME-T3",Partial Line Completion,",",js
+1418,"ME-T1, AE-1","AE-2, AE-1","ME-S1, AE-1",Partial Line Completion,,js
+1419,UO-1,UO-1,UO-1,Line Completion,.,js
+1420,NA-2,"ME-T1, NA-2","ME-T1, NA-2",Partial Line Completion,{,js
+1421,NA-2,"ME-T3, NA-2","ME-T3, NA-2",Partial Line Completion,-,js
+1422,"AE-2, ME-T3",UO-1,"AE-2, ME-T3",Line Completion,=,js
+1423,"ME-S5, NA-1","NA-1, AE-1","NA-1, AE-1",NA,,js
+1424,UO-1,UO-1,"ME-S4, AE-2",Partial Line Completion,,js
+1425,ME-T3,"ME-T3, ME-T2",ME-T3,Partial Line Completion,(,js
+1426,ME-T3,"ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,/,js
+1427,"ME-T2, ME-S5","ME-S2, ME-T2","ME-T2, ME-T3",Line Completion,.,js
+1428,ME-T2,UO-1,"ME-T2, ME-S1",Line Completion,return,js
+1429,"NA-2, ME-S1","NA-2, ME-S1","NA-2, ME-S1",NA,(,js
+1430,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Partial Line Completion,(,js
+1431,ME-S5,"ME-S3, UO-3","AE-2, ME-T3",Line Edit,/,js
+1432,UO-1,UO-1,ME-T1,Partial Line Completion,",",js
+1433,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,js
+1434,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,js
+1435,AE-3,AE-3,AE-3,NA,",",js
+1436,"ME-T2, ME-T3","ME-S3, ME-T2","AE-2, ME-T2",Line Completion,.,js
+1437,"AE-2, NA-1","NA-1, AE-1","NA-1, AE-1",NA,,js
+1438,NA-1,"NA-1, AE-1",NA-1,NA,,js
+1439,NA-1,NA-1,NA-1,NA,(,js
+1440,"ME-S5, NA-1","ME-S5, NA-1",NA-1,NA,/,js
+1441,"UO-1, AE-2","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,/,js
+1442,"ME-T1, ME-T2","ME-T2, AE-1","ME-T2, AE-1",Line Edit,,js
+1443,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Line Edit,(,js
+1444,NA-1,NA-1,NA-1,NA,.,js
+1445,"ME-T1, ME-T2","ME-T1, ME-S2","ME-T1, ME-S2",Line Edit,.,js
+1446,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,js
+1447,NA-1,NA-1,NA-1,NA,.,js
+1448,"ME-T3, ME-S1","ME-T2, ME-S1","ME-T1, ME-T3",Line Completion,.,js
+1449,AE-3,AE-3,AE-3,NA,/,js
+1450,"ME-T1, ME-T2",UO-1,"ME-T1, ME-T2",Line Edit,(,js
+1451,"ME-T1, ME-T3","ME-T1, ME-S1","ME-T3, ME-S1",Line Edit,(,js
+1452,"ME-T1, ME-T3",UO-1,ME-T1,Partial Line Completion,(,js
+1453,"ME-T3, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Edit,==,js
+1454,"ME-T1, ME-T3","ME-T3, ME-S1","ME-T3, ME-S1",Line Edit,(,js
+1455,"AE-2, ME-T1","AE-2, ME-T3","AE-2, ME-T3",Line Edit,,js
+1456,UO-1,"ME-T2, UO-2","ME-S1, UO-2",Line Completion,.,js
+1457,NA-1,"NA-1, AE-1",NA-1,NA,,js
+1458,"ME-T1, ME-T3","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,js
+1459,"ME-T1, ME-T3",UO-1,"AE-2, ME-T3",Line Edit,(,js
+1460,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Partial Line Completion,.,js
+1461,NA-1,NA-1,NA-1,NA,>,js
+1462,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Edit,,js
+1463,ME-T1,ME-T1,ME-T1,Line Completion,.,js
+1464,"AE-2, UO-2","AE-2, UO-2","AE-2, ME-T3",NA,.,js
+1465,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Edit,,js
+1466,UO-1,ME-S7,UO-1,Line Completion,for,js
+1585,"ME-S1, AE-1","ME-T1, AE-1","ME-S3, ME-T1",Partial Line Completion,-,jsx
+1586,"ME-S2, ME-T3",UO-1,UO-1,Line Edit,(,jsx
+1587,"ME-T2, ME-S5",UO-1,"ME-T2, ME-S1",Partial Line Completion,.,jsx
+1588,AE-3,AE-3,AE-3,NA,.,jsx
+1589,"AE-2, ME-S5","ME-S4, ME-T3","AE-2, ME-T3",Partial Line Completion,-,jsx
+1590,"ME-S3, ME-T1",ME-T1,"ME-S3, ME-S1",Partial Line Completion,(,jsx
+1591,"ME-S2, UO-2","AE-2, UO-2","ME-T2, UO-2",Line Completion,.,jsx
+1592,NA-1,NA-1,NA-1,NA,.,jsx
+1593,"AE-2, ME-T2","AE-2, ME-T2","AE-2, ME-T2",Line Completion,<,jsx
+1594,"ME-S7, AE-4","ME-S1, AE-4","ME-S1, AE-4",Line Edit,[,jsx
+1595,"ME-T1, ME-S1","ME-S4, ME-T3","ME-T3, ME-S1",Partial Line Completion,-,jsx
+1596,ME-T1,UO-1,UO-1,Partial Line Completion,.,jsx
+1597,"ME-T1, ME-T3",ME-T1,ME-T1,Partial Line Completion,(,jsx
+1598,"ME-T1, ME-T3",ME-T2,"ME-T1, ME-T3",Partial Line Completion,=,jsx
+1599,NA-2,NA-2,NA-2,Partial Line Completion,.,jsx
+1600,NA-1,NA-1,NA-1,NA,-,jsx
+1601,NA-2,NA-2,NA-2,Line Completion,.,jsx
+1602,NA-2,NA-2,NA-2,Line Edit,(,jsx
+1603,"ME-S3, ME-T1",ME-T1,"ME-S3, ME-T1",Partial Line Completion,.,jsx
+1,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,or,python
+3,"ME-S3, ME-T2","ME-T2, ME-T3","ME-S3, ME-T2",Line Completion,(,python
+4,ME-T2,"AE-2, ME-T2","AE-2, ME-T2",Line Completion,(,python
+5,"ME-S3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Line Completion,(,python
+6,UO-1,UO-1,"AE-2, ME-S5",Line Completion,(,python
+7,"AE-2, ME-T3","AE-2, ME-T3","ME-T3, UO-3",Line Completion,.,python
+8,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,.,python
+9,"ME-S6, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Line Completion,(,python
+10,"AE-2, ME-T3","AE-2, ME-T1","AE-2, ME-S6",Line Completion,(,python
+11,"ME-S3, ME-S1","ME-T1, ME-T2","ME-T3, ME-S1",Line Completion,or,python
+13,ME-T1,"ME-T1, ME-S1","ME-T3, ME-S1",Line Completion,(,python
+14,"ME-T3, ME-S6",ME-T3,"ME-T1, ME-S6",Line Completion,(,python
+15,ME-T3,"ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,.,python
+16,"ME-T1, ME-S1",UO-1,"ME-T1, ME-T2",Line Completion,(,python
+17,UO-1,UO-1,UO-1,Line Completion,(,python
+18,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-T2",Line Completion,or,python
+19,"ME-T2, UO-2","ME-T2, ME-S6","ME-T2, ME-S6",Line Completion,(,python
+20,ME-T2,UO-1,UO-1,Line Completion,(,python
+21,"ME-T1, AE-2","ME-T1, AE-2","ME-T1, AE-2",Line Completion,(,python
+22,"ME-T3, ME-T2","ME-T1, ME-T2","ME-T3, UO-3",Line Completion,in,python
+23,"ME-T2, ME-S1","ME-T2, ME-T3","ME-T2, ME-T3",Line Completion,.,python
+24,ME-T1,UO-1,UO-1,Line Completion,(,python
+25,"ME-T3, ME-S1","ME-T1, ME-T2","ME-T3, ME-S1",Line Completion,in,python
+27,"AE-2, ME-T3","AE-2, ME-T2","AE-2, ME-T3",Line Completion,=,python
+28,NA-1,NA-1,NA-1,NA,.,python
+29,"NA-2, UO-2","NA-2, UO-2","ME-S2, NA-2",Line Completion,(,python
+30,"AE-2, ME-T3","ME-T2, ME-T3",ME-T3,Line Completion,=,python
+31,UO-1,UO-1,UO-1,Line Completion,(,python
+32,"ME-T2, ME-T3","ME-T2, ME-T3","ME-T2, ME-S6",Line Completion,.,python
+33,"NA-2, AE-4","NA-2, AE-4","NA-2, AE-4",Line Completion,-,python
+34,UO-1,UO-1,UO-1,Line Completion,(,python
+35,UO-1,UO-1,UO-1,Line Completion,(,python
+36,"ME-T2, ME-S1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+37,ME-T3,UO-1,ME-T3,Line Edit,.,python
+38,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+39,"NA-1, AE-4","AE-4, NA-1","AE-4, NA-1",NA,,python
+40,ME-T1,ME-T1,ME-T1,Partial Line Completion,.,python
+41,"ME-T1, AE-1","ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,,python
+42,"ME-T2, NA-2","ME-T2, NA-2","ME-S2, NA-2",Line Edit,[,python
+44,"ME-T1, ME-T3","ME-T2, ME-S1","ME-S2, ME-T2",Line Edit,[,python
+45,ME-T3,"AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,",",python
+46,AE-3,AE-3,AE-3,NA,(,python
+47,AE-3,AE-3,AE-3,NA,==,python
+48,"ME-T1, AE-4","ME-S2, AE-4","ME-S1, AE-4",Line Edit,(,python
+49,NA-1,NA-1,NA-1,NA,=,python
+50,"ME-T1, ME-T2",ME-T1,"ME-T1, ME-T2",Line Edit,.,python
+51,ME-S5,"ME-T1, AE-2","AE-2, ME-S5",Partial Line Completion,",",python
+52,NA-2,NA-2,NA-2,NA,.,python
+53,ME-T3,UO-1,"ME-T3, ME-T2",Line Completion,.,python
+54,"ME-T1, ME-T2","ME-S3, ME-S1","ME-S3, ME-T2",Line Completion,.,python
+55,UO-1,"ME-S4, ME-T2",UO-1,Partial Line Completion,>,python
+56,"ME-S6, NA-2",NA-2,"ME-S6, NA-2",Partial Line Completion,(,python
+57,"ME-S4, ME-T1","ME-S4, ME-T1","ME-T2, ME-T3",Line Completion,=,python
+58,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S1",Partial Line Completion,(,python
+59,"ME-T1, ME-T2","ME-S2, ME-S7","ME-T1, ME-S2",NA,,python
+60,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+61,ME-S5,"ME-T3, ME-S1","ME-T3, ME-S6",Line Completion,",",python
+62,AE-3,AE-3,AE-3,NA,",",python
+63,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,python
+64,UO-1,UO-1,UO-1,Partial Line Completion,.,python
+65,"ME-T1, ME-S1","ME-T1, ME-T3",ME-S2,Line Completion,=,python
+66,"AE-2, ME-T3",ME-T3,ME-T3,Line Completion,==,python
+67,"ME-T2, ME-T3","ME-S3, ME-S1","ME-T1, ME-T2",Line Completion,=,python
+68,"ME-T3, NA-2",NA-2,NA-2,Partial Line Completion,*,python
+69,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+70,"ME-T1, NA-2","ME-T1, NA-2","ME-T1, NA-2",NA,,python
+71,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+72,UO-1,"ME-T3, ME-S7",ME-T3,Partial Line Completion,[,python
+73,"ME-T1, NA-2","ME-T1, NA-2","ME-T1, NA-2",Line Edit,[,python
+74,"ME-T1, ME-S2","ME-S2, ME-T1",ME-T1,Line Completion,,python
+75,"ME-T1, ME-T2","ME-T2, AE-1","ME-T2, AE-1",Line Edit,,python
+76,"ME-T1, NA-2","ME-T1, NA-2","ME-T1, NA-2",Partial Line Completion,.,python
+77,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,python
+78,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,=,python
+79,NA-1,NA-1,NA-1,NA,=,python
+80,UO-1,"ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,is,python
+81,AE-3,AE-3,AE-3,NA,,python
+82,AE-3,AE-3,AE-3,NA,=,python
+83,"ME-T1, AE-4","ME-S7, AE-4","ME-S7, AE-4",Line Completion,+,python
+84,AE-3,AE-3,AE-3,NA,-,python
+85,UO-1,ME-S1,UO-1,Line Edit,.,python
+86,NA-2,NA-2,NA-2,NA,(,python
+87,"ME-S1, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,python
+88,"AE-4, AE-1","AE-4, AE-1","AE-4, AE-1",Line Completion,,python
+89,UO-1,"ME-T1, ME-T3","ME-T1, ME-T3",Line Edit,[,python
+90,AE-3,AE-3,AE-3,NA,=,python
+91,NA-1,NA-1,NA-1,NA,",",python
+92,"ME-T1, ME-T2","ME-T3, ME-T2","ME-T3, ME-T2",Line Completion,=,python
+93,"ME-T1, ME-S1","ME-T2, ME-S1","ME-T1, ME-S1",Partial Line Completion,,python
+94,ME-S5,UO-2,"AE-2, ME-S5",Partial Line Completion,",",python
+95,"ME-T1, ME-S1","ME-T3, ME-S1","ME-T1, ME-S1",Line Edit,-,python
+96,NA-1,NA-1,"ME-S5, NA-1",NA,.,python
+97,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+98,"NA-2, ME-S1",NA-2,"NA-2, ME-S1",NA,(,python
+99,AE-3,AE-3,AE-3,NA,+,python
+100,ME-T2,"ME-S4, ME-T4","ME-T3, ME-T4",Partial Line Completion,is,python
+101,"ME-S6, NA-1",NA-1,NA-1,NA,,python
+102,NA-2,NA-2,NA-2,Partial Line Completion,(,python
+103,UO-1,UO-1,UO-1,NA,,python
+104,NA-1,NA-1,NA-1,NA,(,python
+105,NA-1,NA-1,NA-1,NA,[,python
+106,"ME-S3, ME-T1","ME-T1, ME-T4","ME-T1, ME-T4",Line Edit,(,python
+107,"ME-T2, AE-1","AE-1, ME-T4","ME-T2, AE-1",Line Completion,,python
+108,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+109,NA-2,NA-2,NA-2,Partial Line Completion,=,python
+110,"ME-T1, ME-S1","ME-S1, AE-1","ME-S1, AE-1",Line Edit,,python
+111,UO-1,ME-T3,UO-1,Partial Line Completion,or,python
+112,UO-1,UO-1,UO-1,Line Completion,=,python
+113,NA-1,NA-1,NA-1,NA,if,python
+114,NA-2,NA-2,NA-2,NA,(,python
+115,"ME-S1, AE-4","ME-T1, AE-4","ME-S1, AE-4",Line Edit,",",python
+116,UO-1,ME-T3,UO-1,Line Completion,+=,python
+117,"NA-1, AE-1",NA-1,"NA-1, AE-1",NA,,python
+118,"ME-T1, ME-S1","ME-T1, AE-1","ME-S1, AE-1",Partial Line Completion,,python
+119,"ME-T2, ME-S6",UO-1,ME-T2,Partial Line Completion,(,python
+120,NA-2,NA-2,NA-2,Line Completion,not,python
+121,ME-T1,ME-T1,ME-T1,Line Completion,.,python
+122,"ME-S2, AE-1","ME-S2, AE-1","ME-S2, AE-1",Line Completion,,python
+123,"ME-T1, AE-1","ME-T2, AE-1","ME-T1, AE-1",Line Completion,,python
+124,"ME-T2, ME-S1",UO-1,UO-1,Partial Line Completion,.,python
+125,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,.,python
+126,"ME-T1, ME-S6","ME-T1, ME-S2",ME-T3,Line Completion,=,python
+127,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Completion,,python
+128,"ME-S3, ME-T2","ME-S3, ME-T2","ME-S3, ME-T2",Line Completion,=,python
+129,"AE-2, ME-T2",UO-1,"AE-2, ME-T2",Partial Line Completion,=,python
+130,"ME-S2, AE-1","ME-S7, AE-1","ME-S7, AE-1",Partial Line Completion,,python
+131,NA-2,NA-2,NA-2,Line Edit,,python
+132,"ME-T2, ME-T3","ME-S3, ME-T1","ME-T2, ME-T3",Line Completion,.,python
+133,"ME-T2, ME-S7","ME-T1, ME-T2","ME-T1, ME-T2",Partial Line Completion,,python
+134,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,>,python
+135,AE-3,AE-3,AE-3,NA,",",python
+136,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,python
+137,ME-T3,UO-1,UO-1,Line Completion,+=,python
+138,"ME-T1, ME-S2","ME-T1, ME-S1","ME-S3, ME-S1",Line Edit,(,python
+139,NA-2,NA-2,NA-2,NA,=,python
+140,"ME-T1, ME-T2","ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,assert,python
+141,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,-,python
+142,"ME-T1, ME-T2",ME-T1,"ME-T1, ME-T2",Line Completion,if,python
+143,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+144,AE-3,AE-3,AE-3,NA,=,python
+145,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+146,ME-T3,ME-T3,"ME-T3, ME-T4",Partial Line Completion,=,python
+147,AE-3,AE-3,AE-3,NA,[,python
+148,"ME-T2, AE-1","ME-T1, ME-S1","ME-T1, ME-T2",Line Completion,,python
+149,"ME-S2, ME-T2","ME-T2, ME-S1","ME-S2, ME-T2",Line Edit,=,python
+150,"ME-T1, ME-T2","ME-T3, ME-T2",UO-1,Line Completion,,python
+151,"AE-4, AE-1","AE-4, AE-1","UO-1, AE-4",Line Completion,,python
+152,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Edit,,python
+153,"ME-T2, ME-T3","ME-T3, ME-S1","ME-T1, ME-S1",Line Edit,",",python
+154,"AE-2, ME-T2","ME-T2, ME-T3","ME-S2, ME-T1",Line Completion,.,python
+155,"ME-S2, ME-T2","ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,=,python
+156,"ME-S3, ME-S1","ME-S3, ME-S1","ME-S3, ME-S1",Line Completion,.,python
+157,UO-1,ME-T3,UO-1,Partial Line Completion,.,python
+158,"ME-S2, ME-T1","ME-S2, ME-T1","ME-T1, ME-T2",Line Completion,=,python
+159,UO-1,ME-T1,UO-1,Line Edit,,python
+160,"ME-T1, NA-2",NA-2,"NA-2, ME-S1",Line Edit,=,python
+161,NA-1,NA-1,NA-1,NA,(,python
+162,AE-3,AE-3,AE-3,NA,",",python
+163,ME-T2,"AE-2, ME-T2","AE-2, ME-T2",Line Completion,=,python
+164,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Edit,(,python
+165,UO-1,"ME-S4, ME-S7",UO-1,Line Edit,+,python
+166,"ME-T1, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,.,python
+167,"ME-T2, ME-S1","ME-S3, ME-T2","ME-S3, ME-T2",Line Edit,,python
+168,"ME-T1, ME-T3",ME-T1,ME-S2,Line Edit,,python
+169,NA-1,NA-1,NA-1,NA,is,python
+170,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,python
+171,NA-1,NA-1,"ME-S5, NA-1",NA,[,python
+172,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,python
+173,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+174,"ME-T2, ME-S6","ME-S2, ME-T2","ME-T1, ME-T2",Partial Line Completion,,python
+175,NA-1,NA-1,NA-1,NA,[,python
+176,"ME-T1, AE-2",UO-1,ME-T1,Line Completion,",",python
+177,"ME-T1, AE-1","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,python
+178,AE-3,AE-3,AE-3,NA,.,python
+179,AE-3,AE-3,AE-3,NA,[,python
+180,AE-3,AE-3,AE-3,NA,.,python
+181,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+182,"ME-T1, AE-1","ME-T1, AE-1","ME-T3, ME-T4",Line Edit,,python
+183,ME-T3,"ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,[,python
+184,"ME-T1, ME-T2","ME-S2, ME-T2","ME-T1, ME-S2",NA,if,python
+185,NA-1,NA-1,NA-1,NA,[,python
+186,"ME-T2, NA-2","ME-T2, NA-2","ME-T2, NA-2",NA,or,python
+187,ME-S5,UO-1,"ME-S4, ME-T3",Partial Line Completion,,python
+188,"ME-T1, AE-1","ME-S3, AE-1","ME-S3, AE-1",Partial Line Completion,,python
+189,"ME-T1, ME-T3","ME-T1, ME-T2","ME-S4, UO-3",Line Edit,.,python
+190,"NA-1, AE-1",NA-1,NA-1,NA,,python
+191,UO-1,UO-1,UO-1,Line Completion,.,python
+192,UO-1,"ME-T2, ME-T3",ME-T3,Line Edit,=,python
+193,"ME-T2, ME-S1","ME-T1, ME-T2","ME-T2, ME-S1",Line Completion,=,python
+194,ME-T3,ME-T3,ME-T3,Line Completion,",",python
+195,"ME-T2, ME-S6","ME-T2, ME-T3","ME-T1, ME-T2",Line Edit,=,python
+196,"ME-T2, AE-1","ME-T1, AE-1","ME-T2, AE-1",Partial Line Completion,,python
+197,AE-3,AE-3,AE-3,NA,",",python
+198,UO-1,"ME-S2, ME-T2","ME-T1, ME-S2",Line Completion,=,python
+199,NA-2,"ME-T3, NA-2","ME-T3, NA-2",NA,[,python
+200,NA-1,NA-1,NA-1,NA,[,python
+201,NA-1,NA-1,NA-1,NA,=,python
+202,"ME-T2, ME-T3","ME-T1, ME-T3","ME-S4, ME-T1",Partial Line Completion,=,python
+203,UO-1,"ME-T1, ME-T2",UO-1,Line Completion,=,python
+204,NA-2,NA-2,"ME-S6, NA-2",NA,",",python
+205,"ME-S4, ME-S1","ME-T1, ME-S1","ME-T1, ME-T3",Partial Line Completion,",",python
+206,UO-1,UO-1,UO-1,Line Completion,==,python
+207,"UO-1, NA-2","UO-1, NA-2","UO-1, NA-2",Partial Line Completion,",",python
+208,UO-1,UO-1,UO-1,Line Completion,in,python
+209,UO-1,"ME-T1, ME-T2",UO-1,Line Completion,.,python
+210,AE-3,AE-3,AE-3,NA,,python
+211,"AE-2, ME-S1","AE-2, ME-T3","AE-2, ME-T3",NA,",",python
+212,ME-T1,UO-1,ME-T1,Line Edit,",",python
+213,"ME-S2, ME-T2","ME-T2, ME-T3","ME-T2, ME-T3",Line Edit,(,python
+214,"ME-S2, AE-4","ME-S2, AE-4","AE-4, AE-1",Line Completion,,python
+215,"UO-1, AE-4","ME-T1, AE-4","ME-T1, AE-4",Line Edit,(,python
+216,"AE-2, ME-T3","ME-T3, ME-S5",ME-T3,Line Edit,/,python
+217,NA-1,NA-1,NA-1,NA,/,python
+218,UO-1,UO-1,ME-T1,Line Edit,[,python
+219,NA-2,NA-2,NA-2,Partial Line Completion,-,python
+220,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+221,"AE-2, ME-T1","ME-T1, AE-2","ME-T1, AE-2",Line Completion,.,python
+222,"AE-2, ME-T1","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,(,python
+223,UO-1,UO-1,ME-T1,Line Completion,+,python
+224,"ME-S2, ME-T2","ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,.,python
+225,AE-3,AE-3,AE-3,NA,=,python
+226,NA-2,NA-2,"ME-T2, NA-2",Line Edit,,python
+227,UO-1,"ME-S4, ME-T3",UO-1,Line Completion,+,python
+228,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T2, ME-S1",Partial Line Completion,.,python
+229,"AE-2, NA-2","AE-2, NA-2","AE-2, NA-2",NA,(,python
+230,UO-1,UO-2,"ME-S4, ME-T1",Line Completion,while,python
+231,"ME-T2, ME-S1",UO-1,"ME-T1, ME-T2",Partial Line Completion,.,python
+232,"ME-T2, ME-S7",UO-1,ME-T2,Line Completion,.,python
+233,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T2, ME-T3",Partial Line Completion,(,python
+234,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,if,python
+235,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,if,python
+236,UO-1,UO-1,UO-1,Line Completion,in,python
+237,AE-3,AE-3,AE-3,NA,/,python
+238,"AE-2, NA-2","AE-2, NA-2","AE-2, NA-2",Line Completion,,python
+239,"ME-T3, NA-2","ME-T3, NA-2","ME-T3, NA-2",Line Completion,if,python
+240,ME-T3,ME-T3,ME-T3,Line Completion,>=,python
+241,UO-1,"ME-T1, ME-T3","ME-T3, ME-S5",Line Completion,=,python
+242,"AE-2, ME-T3",ME-T1,ME-T1,Line Completion,/,python
+243,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+244,"ME-S3, ME-T2","ME-S3, ME-T2","ME-S3, ME-T2",Line Completion,=,python
+245,"ME-T1, NA-2",NA-2,NA-2,Line Completion,in,python
+246,"ME-T1, ME-T3",ME-T1,ME-T3,Partial Line Completion,=,python
+247,ME-T3,ME-T3,"ME-S2, ME-T2",Line Completion,if,python
+248,"ME-S3, ME-T3","ME-S3, ME-T3","ME-S3, ME-T3",Partial Line Completion,==,python
+249,NA-2,"ME-T3, NA-2","ME-T3, NA-2",NA,/,python
+250,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,python
+251,NA-1,NA-1,"ME-S5, NA-1",NA,[,python
+252,ME-T3,"ME-T3, ME-S7",ME-T3,Line Completion,==,python
+253,ME-T3,ME-T3,ME-T3,Line Completion,,python
+254,"ME-T1, ME-T2",ME-T1,ME-T1,Partial Line Completion,[,python
+255,ME-T1,UO-1,ME-T1,Partial Line Completion,not,python
+256,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T3, ME-S1",Partial Line Completion,,python
+257,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+258,"ME-T1, ME-S1",UO-1,ME-T1,Line Edit,",",python
+259,ME-T3,"ME-S3, ME-T3","ME-S3, ME-T3",Partial Line Completion,is,python
+260,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Partial Line Completion,and,python
+261,"ME-T1, ME-T3","ME-S2, ME-T3","ME-T3, ME-T2",Partial Line Completion,/,python
+262,NA-1,NA-1,NA-1,NA,.,python
+263,UO-1,UO-1,UO-1,Line Completion,=,python
+264,"AE-2, ME-T1","ME-T1, AE-2","AE-2, ME-S5",Partial Line Completion,",",python
+265,"ME-S2, ME-T2","ME-T3, ME-S7","ME-S2, ME-T1",Line Completion,=,python
+266,ME-T2,"ME-S4, ME-T2","ME-S3, ME-T2",Line Completion,is,python
+267,"UO-1, NA-2",NA-2,NA-2,Partial Line Completion,",",python
+268,"ME-T1, ME-T2",UO-1,"ME-T1, ME-T2",Line Edit,.,python
+269,"ME-T2, ME-T3",UO-1,UO-1,Line Completion,>,python
+270,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Partial Line Completion,",",python
+271,"ME-T3, ME-S1","ME-T1, ME-S1",UO-2,Line Edit,-,python
+272,"ME-T1, AE-1","ME-T1, AE-1","ME-T2, AE-1",Partial Line Completion,,python
+273,"AE-2, ME-T3",UO-2,ME-T3,NA,.,python
+274,"ME-S7, ME-S1",UO-1,"ME-T1, ME-T3",Line Completion,=,python
+275,"NA-2, ME-S1","NA-2, ME-S1","NA-2, ME-S1",Partial Line Completion,",",python
+276,"ME-T2, ME-S1","ME-T1, ME-T3","ME-S3, ME-T1",Partial Line Completion,.,python
+277,"ME-T2, ME-S1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+278,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,python
+279,ME-T2,"ME-T2, ME-T4","ME-T2, ME-T4",Line Completion,=,python
+280,"ME-S5, NA-1",NA-1,NA-1,NA,,python
+281,"ME-T1, ME-T2",ME-T1,ME-T2,Line Edit,,python
+282,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+283,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+284,ME-T3,ME-T3,ME-T3,Line Completion,=,python
+285,"ME-T3, NA-2","ME-T3, NA-2","ME-T3, NA-2",Partial Line Completion,.,python
+286,"ME-T3, ME-S7","ME-S7, AE-1","ME-S7, AE-1",Line Completion,=,python
+287,"ME-T3, ME-T4","ME-T3, ME-T4","ME-T3, ME-T4",Partial Line Completion,==,python
+288,"ME-T3, ME-S1","ME-T1, AE-2","ME-S4, AE-2",Partial Line Completion,",",python
+289,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Partial Line Completion,(,python
+290,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Line Edit,",",python
+291,"ME-T1, NA-2","ME-T1, NA-2","ME-T1, NA-2",Line Edit,[,python
+292,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Partial Line Completion,[,python
+293,UO-1,"ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+295,"ME-S3, ME-T1","ME-T1, ME-T2","ME-T1, ME-T2",Line Edit,(,python
+296,"ME-S7, AE-1","ME-T3, AE-1","ME-T2, AE-1",Line Completion,,python
+297,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+299,"ME-S2, ME-S1","ME-S2, UO-2","ME-S2, UO-2",Partial Line Completion,",",python
+301,"ME-T1, ME-S5","ME-S3, ME-S7","ME-S4, ME-S5",Partial Line Completion,|,python
+302,"ME-S2, AE-1","ME-T2, AE-1","ME-S2, AE-1",Line Completion,,python
+303,UO-1,"ME-T1, ME-T3",ME-T3,Line Completion,=,python
+304,"ME-T2, ME-S1",ME-S4,"ME-T1, ME-T2",Line Completion,if,python
+305,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T1, ME-T2",Partial Line Completion,else,python
+306,"ME-T1, ME-T2","ME-T2, ME-S1","ME-T1, ME-T2",Partial Line Completion,",",python
+307,"AE-2, ME-S5","ME-T4, UO-2","ME-T1, ME-T3",Partial Line Completion,",",python
+308,"AE-4, AE-1","ME-S1, AE-4","AE-4, AE-1",Partial Line Completion,^,python
+309,NA-2,NA-2,NA-2,NA,.,python
+310,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,python
+311,"ME-T1, ME-T2","ME-T3, ME-T2","ME-T3, ME-T2",Line Edit,(,python
+312,"ME-S2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+313,"ME-T2, NA-2",NA-2,"ME-T2, NA-2",Line Completion,.,python
+314,NA-1,NA-1,NA-1,NA,[,python
+315,NA-2,NA-2,NA-2,NA,(,python
+316,ME-T1,ME-T1,ME-T1,Partial Line Completion,(,python
+317,NA-1,"AE-2, NA-1","AE-2, NA-1",NA,,python
+318,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,+,python
+319,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,python
+320,ME-T2,UO-1,UO-1,Line Edit,+=,python
+321,"ME-S7, AE-1","ME-S7, AE-1","ME-T1, ME-T2",Line Completion,=,python
+322,"AE-2, ME-T3","ME-T4, UO-2",UO-1,Partial Line Completion,==,python
+323,AE-3,AE-3,AE-3,NA,+,python
+324,"ME-T2, ME-S1",ME-T3,"ME-T2, ME-S1",Line Completion,.,python
+325,"NA-1, AE-4","AE-4, NA-1","NA-1, AE-4",NA,,python
+326,UO-1,UO-1,UO-1,Partial Line Completion,[,python
+327,NA-1,NA-1,NA-1,NA,,python
+328,ME-T1,UO-1,"ME-T1, ME-T2",Partial Line Completion,.,python
+329,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+330,"NA-2, ME-S1","ME-T2, NA-2","ME-T2, NA-2",Line Completion,.,python
+331,"ME-S6, ME-S1","ME-T1, ME-S1",ME-T1,Line Edit,[,python
+332,"NA-1, AE-4","AE-4, NA-1","AE-4, NA-1",NA,,python
+333,"ME-T1, ME-T3","ME-T2, ME-T3","ME-T2, ME-T3",Partial Line Completion,if,python
+334,NA-1,"AE-2, NA-1","AE-2, NA-1",NA,,python
+335,"ME-S7, AE-1","UO-1, AE-1","ME-S2, AE-1",Line Completion,=,python
+336,"ME-S3, ME-T1","ME-T1, ME-T3","ME-S3, ME-T3",Partial Line Completion,.,python
+337,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S1",Partial Line Completion,(,python
+338,"ME-S3, ME-T2","ME-S3, ME-T3","ME-S3, ME-T3",Line Edit,(,python
+340,"ME-S1, AE-1","ME-S1, AE-1","ME-S3, AE-1",Line Completion,,python
+341,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,python
+342,"ME-T1, AE-1","ME-S7, AE-1","ME-S7, AE-1",Line Edit,,python
+343,"ME-T1, ME-T2",UO-1,"ME-T1, ME-T2",Line Completion,if,python
+344,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T3",Line Completion,if,python
+345,"ME-S5, AE-1","ME-S5, AE-1","ME-S5, AE-1",Line Completion,,python
+346,"ME-S1, NA-2","ME-S1, NA-2","ME-S1, NA-2",Line Edit,(,python
+347,ME-T3,ME-T3,ME-T3,Line Edit,-,python
+348,NA-1,NA-1,NA-1,NA,{,python
+349,ME-T3,ME-T3,ME-T3,Partial Line Completion,in,python
+350,AE-3,AE-3,AE-3,NA,(,python
+351,"ME-S3, ME-T1","ME-S3, ME-T1","ME-S3, ME-T3",Partial Line Completion,==,python
+352,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S6",Line Completion,.,python
+353,UO-1,"ME-T3, ME-S7",UO-1,Line Completion,==,python
+354,NA-1,"NA-1, AE-1",NA-1,NA,,python
+355,AE-3,AE-3,AE-3,NA,=,python
+356,"AE-4, AE-1","AE-4, AE-1","AE-4, AE-1",Line Edit,,python
+357,"ME-T1, NA-2","ME-T1, NA-2","ME-T1, NA-2",NA,.,python
+358,ME-T3,ME-T3,ME-T3,Line Edit,*,python
+359,UO-1,UO-1,ME-T1,Line Edit,(,python
+360,"NA-2, AE-4","NA-2, AE-4","NA-2, AE-4",Line Completion,,python
+361,"ME-T1, ME-T3","ME-S7, UO-2","ME-T3, ME-T2",Partial Line Completion,+,python
+362,ME-T1,ME-T1,ME-T1,Line Edit,(,python
+363,"ME-T1, AE-4","AE-4, AE-1","AE-4, AE-1",Line Completion,,python
+364,"ME-S2, ME-T1","ME-S2, ME-T2","ME-T1, ME-T3",Line Completion,=,python
+365,"ME-S3, ME-T2","ME-S3, ME-T2","ME-S3, ME-T2",Line Completion,=,python
+366,NA-1,NA-1,NA-1,NA,,python
+367,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+368,NA-1,NA-1,NA-1,NA,=,python
+369,UO-1,UO-1,"ME-S4, ME-T3",Partial Line Completion,-,python
+370,"ME-S3, AE-1","ME-T1, AE-1","ME-S5, AE-1",Partial Line Completion,,python
+371,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,(,python
+372,"AE-2, AE-1","AE-2, AE-1","AE-2, AE-1",Line Completion,,python
+373,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,python
+374,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,assert,python
+375,NA-1,NA-1,NA-1,NA,",",python
+376,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,,python
+377,"ME-T3, ME-S1","ME-T3, ME-S1","ME-S5, AE-1",Line Edit,+,python
+378,"NA-2, ME-S1","NA-2, ME-S1",NA-2,Line Edit,,python
+379,UO-1,UO-1,UO-1,Line Edit,.,python
+380,AE-3,AE-3,AE-3,NA,,python
+381,NA-1,NA-1,NA-1,NA,[,python
+382,UO-1,"ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,=,python
+383,"ME-T3, ME-S1","ME-T3, ME-S7","ME-T3, ME-T2",Line Edit,,python
+384,UO-1,UO-1,UO-1,Partial Line Completion,{,python
+385,"ME-T2, ME-S1","ME-S2, ME-T3","ME-T1, ME-T2",Line Completion,=,python
+386,"ME-T3, ME-S1","ME-T1, ME-T3","ME-T1, ME-T3",Line Edit,.,python
+387,"ME-T1, ME-T2","ME-T1, ME-T2",ME-T1,Line Edit,==,python
+388,UO-1,"ME-T1, ME-T3","ME-T1, ME-T2",Partial Line Completion,-,python
+389,"ME-T1, ME-T2","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+390,"ME-S5, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,python
+391,"ME-S4, ME-T1","ME-T1, ME-T2","ME-S2, ME-T2",Line Edit,*,python
+392,"ME-T1, ME-T2",ME-T1,UO-1,Partial Line Completion,.,python
+393,"ME-T2, ME-S1","ME-T1, ME-S2","ME-T1, ME-T2",Line Completion,,python
+394,"ME-S4, ME-S7","ME-T1, ME-S1","ME-T1, ME-S1",NA,=,python
+395,UO-1,UO-1,UO-1,Line Completion,=,python
+396,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,python
+397,"ME-S3, ME-T2","ME-T1, ME-T2","ME-T2, ME-S1",NA,.,python
+398,"ME-T3, ME-S6","AE-2, ME-T3","AE-2, ME-T3",Line Completion,,python
+399,"ME-T3, UO-3","ME-T3, UO-3",UO-1,Line Completion,in,python
+400,ME-S2,"ME-T1, ME-T2","AE-2, ME-S2",Line Edit,.,python
+401,"ME-T1, ME-T2","ME-S3, AE-1","ME-T1, ME-S2",Line Completion,+,python
+402,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+403,ME-T1,UO-1,UO-1,Partial Line Completion,",",python
+404,ME-S5,UO-1,"ME-T1, ME-T3",Line Edit,{,python
+405,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Partial Line Completion,,python
+406,"ME-S4, ME-T1","UO-1, ME-T3","ME-S4, ME-T3",Partial Line Completion,+,python
+407,"ME-T3, ME-S1",ME-T3,"ME-T3, ME-S5",Line Completion,=,python
+408,ME-S5,"ME-T2, ME-T3","ME-T1, ME-T3",Line Edit,(,python
+409,"ME-T1, ME-T3","ME-T2, ME-S1",UO-1,Line Completion,=,python
+410,NA-1,NA-1,NA-1,NA,,python
+411,"ME-T1, ME-S2","ME-T1, ME-T3","ME-S2, ME-S5",Line Completion,=,python
+412,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+413,"ME-T2, ME-S1","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,for,python
+414,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,python
+415,"ME-T2, ME-S1",ME-T1,"ME-T1, ME-T2",Line Completion,=,python
+417,"ME-T2, ME-T3","ME-T1, ME-T2","ME-T3, ME-S1",Line Completion,=,python
+418,"ME-T2, AE-4","ME-T1, AE-4","ME-T1, AE-4",Line Edit,,python
+419,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+420,NA-2,NA-2,NA-2,NA,=,python
+421,"ME-T3, ME-S5","ME-T3, ME-S1","ME-T3, ME-S1",Line Edit,",",python
+422,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Line Completion,=,python
+423,UO-1,"ME-T1, ME-S1",UO-1,Line Completion,.,python
+424,NA-1,NA-1,NA-1,NA,.,python
+425,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",NA,,python
+426,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,python
+427,"ME-S3, ME-T2",ME-S3,ME-S3,Line Completion,.,python
+428,"AE-2, ME-T3","ME-T3, ME-S6","AE-2, ME-T3",Line Edit,/,python
+429,UO-1,"ME-S4, ME-T3",UO-1,Line Completion,+,python
+430,UO-1,"ME-T1, ME-T3","ME-T1, ME-S1",Line Completion,=,python
+431,NA-1,NA-1,NA-1,NA,[,python
+432,"ME-S5, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+433,AE-3,AE-3,AE-3,NA,+,python
+434,"ME-S2, ME-T2",UO-1,"ME-T2, ME-S1",Line Completion,.,python
+435,"ME-T3, ME-T4","ME-T1, ME-T3","ME-T1, ME-T3",Partial Line Completion,=,python
+436,"ME-T3, ME-S1","ME-T2, ME-S1","ME-T3, ME-S1",Line Edit,.,python
+437,"ME-T3, AE-1","ME-S2, AE-1","AE-1, ME-T4",Line Completion,,python
+438,NA-1,"ME-S5, NA-1",NA-1,NA,(,python
+439,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,=,python
+440,NA-1,NA-1,NA-1,NA,(,python
+441,NA-1,NA-1,NA-1,NA,=,python
+442,AE-3,AE-3,AE-3,NA,.,python
+443,NA-1,NA-1,NA-1,NA,(,python
+444,"ME-T1, ME-T2","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+445,UO-1,"ME-T1, ME-T4","ME-T3, ME-T4",Line Edit,=,python
+446,"ME-S5, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,python
+447,UO-2,UO-2,ME-T3,Partial Line Completion,",",python
+448,NA-1,NA-1,NA-1,NA,(,python
+449,"ME-S3, ME-T1","ME-T1, ME-S1","ME-T3, ME-S1",Partial Line Completion,",",python
+450,NA-1,NA-1,NA-1,NA,=,python
+451,NA-1,NA-1,NA-1,NA,in,python
+452,UO-1,"ME-T1, ME-T2",UO-1,Line Completion,,python
+453,NA-2,NA-2,NA-2,Line Edit,+,python
+454,AE-3,AE-3,AE-3,NA,(,python
+455,"ME-S2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+456,"ME-T2, ME-S1",ME-T1,"ME-T1, ME-T2",NA,.,python
+457,"ME-T1, ME-T3",ME-T3,ME-T3,Line Edit,.,python
+458,AE-3,AE-3,AE-3,NA,,python
+459,AE-3,AE-3,AE-3,NA,",",python
+460,"ME-T3, ME-S1","ME-S6, ME-S1","ME-S6, ME-S1",Line Completion,=,python
+461,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+462,"ME-S3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,else,python
+463,UO-1,ME-T3,"UO-1, UO-2",Line Completion,while,python
+464,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,[,python
+466,"ME-T1, AE-2",UO-1,"ME-T1, AE-2",Line Completion,,python
+467,"ME-T2, ME-S6","ME-T1, ME-T2","ME-S4, ME-T2",Line Completion,.,python
+468,"ME-S6, NA-2",NA-2,NA-2,NA,or,python
+469,"ME-T3, ME-S5","ME-T3, ME-S5","ME-T3, ME-S5",Line Completion,",",python
+470,AE-3,AE-3,AE-3,NA,(,python
+471,"ME-S2, ME-T2","ME-T2, ME-S1","ME-S2, ME-T2",Line Completion,.,python
+472,"ME-T1, ME-S2",ME-T1,ME-T1,Line Edit,.,python
+473,AE-3,AE-3,AE-3,NA,",",python
+474,"ME-T3, ME-S1",UO-1,UO-1,Partial Line Completion,,python
+475,"AE-2, ME-T3","ME-T3, AE-1","ME-T3, ME-S5",Partial Line Completion,/,python
+476,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T3, ME-T2",Line Edit,<,python
+477,"ME-T2, ME-S1",UO-1,"ME-T2, ME-S1",Partial Line Completion,.,python
+478,"ME-T3, ME-S1",ME-T3,ME-T3,Line Edit,",",python
+479,ME-T3,"ME-T3, ME-S1",ME-T3,Partial Line Completion,.,python
+480,"ME-T2, ME-T3",ME-T2,"ME-T2, ME-T3",Line Completion,=,python
+481,"ME-T1, ME-T3",UO-1,"ME-T1, ME-T2",Partial Line Completion,{,python
+482,UO-1,"ME-S4, ME-S1",UO-1,Partial Line Completion,.,python
+483,ME-T1,UO-1,UO-1,Partial Line Completion,",",python
+484,NA-1,NA-1,NA-1,NA,.,python
+485,"ME-S2, ME-T1",ME-T1,"ME-S2, ME-T2",Line Edit,(,python
+486,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+487,"ME-T3, ME-S5",ME-T3,"ME-S3, ME-T3",Partial Line Completion,.,python
+488,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,,python
+489,AE-3,AE-3,AE-3,NA,(,python
+490,AE-3,AE-3,AE-3,NA,(,python
+491,UO-1,UO-1,"UO-1, AE-1",Partial Line Completion,,python
+492,"ME-T3, ME-S1","ME-S2, ME-S1","ME-T1, ME-T2",Line Edit,[,python
+493,"ME-T1, ME-T3",ME-T1,ME-T1,Partial Line Completion,.,python
+494,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,",",python
+495,NA-2,NA-2,NA-2,Partial Line Completion,(,python
+496,ME-T1,"ME-S6, ME-S1",UO-1,Partial Line Completion,",",python
+497,"ME-S2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+498,"ME-T3, ME-S1","ME-S3, ME-S1","ME-T3, ME-S5",Partial Line Completion,",",python
+499,"ME-T2, ME-S1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+500,"ME-T2, ME-T3","ME-T2, ME-T3","ME-T2, ME-T3",Line Edit,(,python
+501,"ME-S3, ME-T3","ME-S3, ME-T3","ME-T3, ME-S5",Line Edit,,python
+502,UO-1,UO-1,"ME-T1, ME-S6",Line Completion,=,python
+503,"ME-T1, ME-T3",UO-1,"ME-T1, AE-1",Partial Line Completion,,python
+504,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,python
+505,NA-1,NA-1,NA-1,NA,-,python
+506,NA-2,NA-2,"ME-S5, NA-2",Line Edit,(,python
+507,UO-1,UO-1,"ME-T1, ME-S2",Line Completion,=,python
+508,"ME-S5, AE-4","ME-T3, AE-4","ME-S5, AE-4",Line Edit,",",python
+509,"ME-T1, AE-2","AE-2, ME-T3","AE-2, ME-T3",Line Completion,,python
+510,NA-1,NA-1,NA-1,NA,,python
+511,"ME-T1, ME-S5","ME-T1, ME-T2","ME-T1, ME-T2",Partial Line Completion,",",python
+512,UO-1,UO-1,UO-1,Partial Line Completion,(,python
+513,ME-T2,ME-T2,ME-T2,Line Completion,if,python
+514,"AE-2, ME-T3","ME-T3, AE-1","ME-T3, AE-1",Line Edit,/,python
+515,"ME-T3, ME-T2","UO-1, AE-1","ME-T2, AE-1",Line Completion,+,python
+516,NA-1,NA-1,NA-1,NA,+,python
+517,"ME-S7, AE-1","ME-S7, AE-1","ME-T2, AE-1",Line Completion,=,python
+518,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+519,NA-2,"UO-1, NA-2",NA-2,NA,",",python
+520,NA-1,NA-1,NA-1,NA,-,python
+521,"ME-T3, ME-S1",ME-T3,"ME-T3, ME-S5",Partial Line Completion,[,python
+522,"ME-T1, ME-T2",ME-T1,ME-T1,Line Edit,(,python
+523,"ME-T1, AE-1","ME-T2, AE-1","ME-S4, AE-1",Partial Line Completion,,python
+524,"ME-S1, NA-2","ME-S1, NA-2","ME-S1, NA-2",Line Edit,",",python
+525,"ME-T3, NA-2","ME-T1, NA-2","ME-T1, NA-2",NA,/,python
+526,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Line Edit,+,python
+527,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,python
+528,"ME-S3, ME-T2",ME-S3,ME-S3,Line Edit,(,python
+529,UO-1,"ME-S3, ME-T3",UO-1,Line Edit,{,python
+530,"ME-T3, ME-S1",ME-T3,ME-T3,Line Edit,==,python
+531,NA-2,NA-2,NA-2,NA,",",python
+533,"ME-T2, ME-T3","ME-S2, UO-3",ME-T1,Partial Line Completion,(,python
+534,"ME-T3, ME-S1","ME-S4, ME-S1",ME-T3,Partial Line Completion,=,python
+535,"NA-1, AE-4","NA-1, AE-4","NA-1, AE-4",NA,,python
+536,"ME-S2, ME-T1",UO-1,"ME-T1, ME-T2",Line Completion,=,python
+537,"AE-2, ME-T3","ME-S3, ME-T3","AE-2, ME-T3",Line Edit,+,python
+538,"ME-S2, AE-4","ME-S2, AE-4","ME-S2, AE-4",Line Edit,,python
+539,"ME-T2, AE-1","ME-T2, AE-1",UO-1,Partial Line Completion,,python
+540,NA-1,NA-1,NA-1,NA,.,python
+541,ME-T3,UO-1,ME-T3,Line Edit,=,python
+542,"ME-S3, ME-T1","ME-S3, ME-T3","ME-S3, ME-T3",Partial Line Completion,{,python
+543,UO-1,"UO-1, AE-1","ME-T2, AE-1",Partial Line Completion,,python
+544,"ME-T1, NA-2","ME-T1, NA-2","ME-T1, NA-2",NA,[,python
+545,"ME-T1, ME-S1",ME-T3,"ME-T1, ME-T3",Partial Line Completion,=,python
+546,"ME-T1, AE-1","ME-T1, ME-S5","ME-T1, ME-T2",Partial Line Completion,,python
+547,"ME-T2, ME-T3","ME-S3, ME-T2","ME-T1, ME-T2",Line Completion,if,python
+548,"ME-S3, ME-T2",UO-1,"ME-T1, ME-T2",Line Edit,",",python
+549,UO-1,UO-1,ME-T1,Line Completion,in,python
+550,ME-T3,UO-1,ME-T3,Partial Line Completion,",",python
+551,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,/,python
+552,"ME-T2, ME-S1",ME-T1,"ME-T1, ME-T2",Line Completion,for,python
+553,"ME-S2, ME-S7","ME-T2, ME-S1","ME-T2, AE-1",Partial Line Completion,,python
+554,NA-1,NA-1,NA-1,NA,,python
+555,"ME-T1, NA-2","ME-T1, NA-2","ME-T1, NA-2",NA,<,python
+556,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-S1",Partial Line Completion,,python
+557,"ME-T1, AE-1","ME-T3, AE-1","ME-T1, AE-1",Partial Line Completion,,python
+558,AE-3,AE-3,AE-3,NA,,python
+559,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,python
+560,"ME-T1, AE-1","ME-T1, AE-1","ME-S2, AE-1",Line Completion,,python
+561,"ME-T3, ME-T4","ME-T1, ME-T3",UO-1,Line Completion,!=,python
+562,"NA-2, AE-1","NA-2, AE-1","NA-2, AE-1",NA,,python
+563,"ME-T2, ME-S1","ME-T1, ME-T2","ME-T2, ME-S1",Line Edit,",",python
+564,UO-1,UO-1,UO-1,Line Edit,(,python
+565,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,python
+566,"ME-T1, ME-S1","ME-S7, ME-S1","ME-S3, ME-S1",Line Completion,.,python
+567,"ME-T3, ME-S6","ME-T3, ME-S6","ME-T3, ME-S5",Line Completion,=,python
+568,"ME-T1, ME-T3","ME-T2, ME-S1","ME-T1, ME-T3",Partial Line Completion,(,python
+1817,"ME-T3, ME-S6","ME-T3, AE-1","ME-T3, AE-1",Line Completion,,shell
+1818,"ME-T3, NA-2","AE-2, NA-2","AE-2, NA-2",NA,>,shell
+1819,"AE-1, UO-2","AE-1, UO-2","ME-T3, AE-1",NA,,shell
+1820,"ME-T3, ME-T4","ME-T3, ME-T4","ME-T3, ME-T4",Line Completion,.,shell
+1821,"UO-1, UO-2",UO-1,"ME-T3, ME-S6",Line Completion,&,shell
+1822,UO-1,UO-1,"AE-2, ME-T3",Line Completion,.,shell
+1823,"ME-T1, AE-1",UO-1,"ME-T1, AE-1",Partial Line Completion,,shell
+1824,NA-1,NA-1,NA-1,NA,,shell
+1825,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Line Completion,=,shell
+1826,"AE-2, ME-T3",ME-T3,ME-T3,Line Edit,-,shell
+1827,"AE-2, ME-S5","ME-S4, ME-T3","ME-S4, ME-T3",Line Completion,",",shell
+1828,UO-1,UO-1,"ME-T1, ME-S6",Partial Line Completion,.,shell
+1829,"ME-T1, ME-T3","ME-T3, AE-1","ME-T3, ME-S5",Line Edit,/,shell
+1830,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,=,shell
+1831,NA-1,NA-1,NA-1,NA,in,shell
+673,UO-1,UO-1,UO-1,Line Completion,>,ts
+674,ME-T4,UO-1,"ME-S3, UO-2",Line Completion,<,ts
+675,NA-1,NA-1,NA-1,NA,",",ts
+676,"ME-T3, NA-2","ME-T2, NA-2","ME-T2, NA-2",NA,,ts
+677,ME-T1,UO-1,"ME-S3, UO-2",Partial Line Completion,.,ts
+679,"ME-S3, ME-T1",ME-S3,ME-S3,NA,*,ts
+680,NA-2,NA-2,NA-2,Line Edit,(,ts
+681,"ME-S2, AE-1","ME-T3, AE-1","ME-T1, AE-1",Line Completion,,ts
+682,UO-1,"ME-S2, ME-T2",UO-1,Line Completion,>,ts
+683,UO-1,"ME-T2, ME-S1",UO-1,Line Edit,>,ts
+684,"ME-T1, ME-S1","ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,.,ts
+685,"ME-T2, AE-1",UO-1,"ME-T3, ME-S7",Line Completion,=,ts
+686,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Edit,(,ts
+687,AE-3,AE-3,AE-3,NA,,ts
+688,"ME-T2, ME-S5","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+689,NA-1,NA-1,NA-1,NA,=,ts
+690,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,/,ts
+691,"ME-T1, UO-3","ME-T1, UO-3","ME-T1, UO-3",Line Completion,.,ts
+692,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+693,"ME-T1, ME-T3",ME-T3,"ME-T1, ME-T3",Line Edit,;,ts
+694,"ME-T1, ME-T2",ME-T1,"ME-T1, ME-T2",Line Edit,.,ts
+695,"ME-T1, ME-T2",UO-1,"ME-T1, ME-T2",Partial Line Completion,*,ts
+696,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,=,ts
+697,"ME-S2, AE-1","AE-1, ME-T4","AE-1, ME-T4",Partial Line Completion,,ts
+698,"ME-T2, ME-S6","ME-T2, ME-T3","ME-T2, ME-T3",Line Completion,.,ts
+699,UO-1,UO-1,UO-1,Line Completion,=,ts
+700,"ME-T2, ME-S1",ME-T3,"ME-T2, ME-T3",Line Completion,.,ts
+701,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+702,UO-1,"ME-T2, AE-1","UO-1, AE-1",Line Completion,,ts
+703,"ME-T3, AE-4","ME-T3, AE-4","UO-1, AE-4",NA,,ts
+704,NA-1,NA-1,NA-1,NA,,ts
+705,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,(,ts
+706,"ME-T1, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+707,"ME-S5, NA-2","NA-2, ME-S1","NA-2, ME-S1",NA,.,ts
+708,"ME-T3, ME-S6",ME-T3,ME-S2,Line Completion,=,ts
+709,ME-S5,"ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,ts
+710,ME-T3,ME-T1,UO-1,Partial Line Completion,{,ts
+711,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,.,ts
+712,NA-1,NA-1,NA-1,NA,=,ts
+713,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+714,UO-1,UO-1,UO-1,Line Completion,=,ts
+715,NA-1,NA-1,NA-1,NA,/,ts
+716,"AE-1, UO-2","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,ts
+717,"AE-2, ME-T4","AE-2, ME-S7","AE-2, ME-T4",Partial Line Completion,<,ts
+718,"ME-T1, ME-T3","ME-T1, ME-T2","ME-T1, ME-T3",Line Completion,.,ts
+719,"NA-2, AE-4","NA-2, AE-4","NA-2, AE-4",NA,-,ts
+720,"ME-T1, ME-S1","ME-S4, ME-T1","ME-S4, ME-T1",Partial Line Completion,.,ts
+721,ME-T3,ME-T3,UO-1,Line Edit,(,ts
+722,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+723,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,.,ts
+724,"ME-S3, ME-T1","AE-2, UO-2","ME-S3, ME-T3",Line Edit,/,ts
+725,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Edit,,ts
+726,"AE-4, NA-1","NA-1, AE-4","AE-4, NA-1",NA,.,ts
+727,"ME-T2, AE-1","AE-1, ME-T4","AE-1, ME-T4",Line Completion,,ts
+728,"AE-1, ME-T4","AE-1, ME-T4","AE-1, ME-T4",Line Completion,,ts
+729,"ME-S1, AE-1","ME-S1, AE-1","ME-S1, AE-1",Partial Line Completion,,ts
+730,"AE-2, ME-S5",ME-T3,ME-T3,Line Edit,.,ts
+731,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,=,ts
+732,"AE-2, ME-T3",ME-T3,"ME-T2, ME-T3",Partial Line Completion,(,ts
+733,NA-1,NA-1,NA-1,NA,.,ts
+734,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,ts
+735,"ME-S2, ME-T2",ME-T1,"ME-S2, ME-T2",Line Completion,=,ts
+736,ME-T1,"ME-T1, ME-T2",ME-T1,Line Completion,.,ts
+737,"ME-S3, ME-T1","ME-T1, ME-T2","ME-T1, ME-T2",Partial Line Completion,",",ts
+738,ME-S3,"ME-S3, ME-T3","ME-S2, ME-T3",Line Completion,,ts
+739,"ME-T2, AE-1","ME-T2, AE-1","ME-S2, AE-1",Partial Line Completion,,ts
+740,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,ts
+741,NA-1,NA-1,NA-1,NA,(,ts
+742,"ME-T2, AE-1",UO-1,"ME-T2, AE-1",Line Completion,,ts
+743,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+744,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,(,ts
+745,"ME-S2, ME-T2",UO-1,"ME-T1, ME-T2",Line Completion,.,ts
+746,NA-2,NA-2,NA-2,NA,(,ts
+747,"NA-2, ME-S1","NA-2, ME-S1","NA-2, ME-S1",Partial Line Completion,",",ts
+748,"NA-2, ME-S1","NA-2, ME-S1","NA-2, ME-S1",Line Edit,(,ts
+749,"ME-T1, ME-S2",UO-1,"ME-T1, ME-S2",Partial Line Completion,(,ts
+750,NA-1,NA-1,NA-1,NA,/,ts
+751,AE-3,AE-3,AE-3,NA,,ts
+752,NA-1,NA-1,NA-1,NA,/,ts
+753,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,ts
+754,"ME-T1, ME-T2","ME-T1, ME-T2","ME-S2, ME-T2",Line Edit,(,ts
+755,"ME-T1, ME-T3","ME-T2, ME-T3","ME-T1, ME-T3",Line Completion,.,ts
+756,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,ts
+757,"ME-S2, ME-T2","UO-3, ME-S1","ME-T2, ME-T3",Partial Line Completion,.,ts
+758,"ME-T1, ME-T3","ME-T2, ME-T3","ME-T1, ME-T3",Line Completion,.,ts
+759,"AE-1, ME-T4","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+760,"ME-T1, UO-2","ME-T1, UO-2","ME-T1, UO-2",Partial Line Completion,(,ts
+761,"ME-T3, AE-1","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,-,ts
+762,"ME-S5, NA-2","ME-T3, NA-2","ME-T3, NA-2",NA,(,ts
+763,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,(,ts
+764,"ME-S2, ME-T2","ME-T2, ME-S1","ME-T2, ME-S7",Line Completion,=,ts
+765,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+766,NA-1,NA-1,NA-1,NA,/,ts
+767,UO-1,UO-1,UO-1,Line Completion,=,ts
+768,NA-2,"NA-2, ME-S1","NA-2, ME-S1",Line Edit,(,ts
+769,"ME-T1, ME-T2","ME-T1, AE-1","ME-T1, AE-1",Line Edit,=,ts
+770,NA-1,NA-1,NA-1,NA,.,ts
+771,ME-T1,ME-T1,ME-T1,Partial Line Completion,.,ts
+772,NA-1,NA-1,NA-1,NA,/,ts
+773,"AE-2, ME-T4","ME-S5, ME-T4","ME-S1, ME-T4",Line Edit,<,ts
+774,"ME-T2, AE-1","ME-S6, AE-1","ME-S2, AE-1",Line Completion,,ts
+775,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+776,ME-S2,"ME-T3, ME-S1","ME-T2, ME-S7",Line Edit,(,ts
+777,NA-1,NA-1,NA-1,NA,<,ts
+778,"ME-T1, ME-T3","ME-T2, ME-T3","ME-T1, ME-T2",Line Edit,(,ts
+779,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,,ts
+780,"ME-S2, ME-T2",ME-T1,"ME-S2, ME-T2",Line Completion,,ts
+781,"AE-2, ME-T2","ME-T2, ME-S1","AE-2, ME-T2",Line Completion,=,ts
+782,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Line Edit,.,ts
+783,NA-1,NA-1,NA-1,NA,(,ts
+784,NA-2,"ME-T1, NA-2","ME-S5, NA-2",NA,(,ts
+785,ME-T3,ME-T3,ME-T3,Line Completion,=,ts
+786,"ME-T3, ME-S1","ME-T3, AE-1","ME-T3, ME-S1",Line Edit,-,ts
+787,NA-1,NA-1,"ME-S5, NA-1",NA,/,ts
+788,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,ts
+789,AE-3,AE-3,AE-3,NA,.,ts
+790,NA-1,NA-1,NA-1,NA,",",ts
+791,UO-1,ME-T1,UO-1,Line Completion,=,ts
+792,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+793,UO-1,UO-1,"ME-S4, ME-S2",Line Completion,=,ts
+794,UO-1,"ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+795,NA-2,NA-2,NA-2,NA,(,ts
+796,UO-1,"ME-T1, ME-T3",UO-2,Partial Line Completion,",",ts
+797,NA-1,NA-1,NA-1,NA,/,ts
+798,"AE-2, AE-1","AE-2, AE-1","AE-2, AE-1",Line Completion,,ts
+799,"AE-2, ME-S1","AE-2, ME-S1","AE-2, ME-S1",NA,(,ts
+800,"ME-S4, ME-T2","ME-T1, ME-S2","ME-T1, ME-S2",Line Edit,(,ts
+801,"AE-2, ME-S6","ME-T1, ME-S1","ME-S1, ME-T4",Line Edit,(,ts
+802,ME-T2,"ME-T2, ME-S7",UO-1,Line Completion,if,ts
+803,"ME-T1, ME-T2",UO-1,"ME-S3, ME-S1",Partial Line Completion,",",ts
+804,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Edit,==,ts
+805,"AE-2, ME-S5","UO-1, ME-T3","ME-S3, ME-S1",Line Edit,,ts
+806,"ME-S1, AE-1","ME-T1, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+807,UO-1,"ME-S2, ME-T2",UO-1,Line Edit,>,ts
+808,"AE-2, ME-T3",UO-1,ME-T3,Line Edit,.,ts
+809,"AE-2, ME-S1","AE-2, ME-S1","AE-2, ME-S1",Line Edit,(,ts
+810,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Edit,,ts
+811,NA-1,NA-1,NA-1,NA,*,ts
+812,"ME-T2, ME-T4","ME-S6, ME-S1","ME-T1, ME-S1",Line Edit,,ts
+813,NA-1,NA-1,NA-1,NA,/,ts
+814,NA-1,NA-1,NA-1,NA,if,ts
+815,"ME-T2, NA-2","ME-T2, NA-2","NA-2, ME-S1",Line Completion,.,ts
+816,"ME-T1, AE-1","ME-T1, AE-1","ME-S2, AE-1",Line Edit,,ts
+817,NA-1,NA-1,NA-1,NA,.,ts
+819,"ME-T2, ME-S1","ME-T1, ME-S6","ME-T1, ME-S1",Line Edit,.,ts
+820,"AE-2, ME-T3","ME-T3, AE-1","ME-T3, AE-1",Line Edit,,ts
+821,"ME-T2, ME-S1","ME-T2, ME-T3","ME-T2, ME-T3",Line Completion,.,ts
+822,NA-1,NA-1,NA-1,NA,.,ts
+823,"AE-2, ME-T3",UO-1,UO-1,Line Completion,=,ts
+824,AE-3,AE-3,AE-3,NA,,ts
+825,"ME-T1, AE-1","ME-T1, AE-1","ME-S5, AE-1",Partial Line Completion,,ts
+826,"ME-T2, ME-S1","AE-2, ME-T2","ME-S2, ME-T1",Line Completion,=,ts
+828,"ME-S1, ME-T4","ME-T1, ME-S1","ME-T1, ME-S1",Partial Line Completion,,ts
+829,UO-1,"ME-T1, ME-T2","ME-T1, ME-T2",Line Edit,,ts
+830,"ME-T2, AE-1","ME-S1, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+832,"AE-2, ME-T4",ME-T4,"ME-S2, ME-T4",Line Edit,[,ts
+833,"ME-S7, ME-T4","AE-1, ME-T4","AE-1, ME-T4",Line Completion,,ts
+834,AE-3,AE-3,AE-3,NA,>,ts
+835,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Line Edit,(,ts
+836,NA-1,NA-1,NA-1,NA,{,ts
+837,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+838,"NA-1, AE-1","NA-1, AE-1",NA-1,NA,,ts
+839,"NA-2, AE-1","NA-2, AE-1","NA-2, AE-1",Line Edit,,ts
+840,ME-T3,"ME-S3, ME-T3","ME-S3, ME-T3",Line Edit,==,ts
+841,"ME-T2, AE-1","ME-S1, AE-1","ME-T2, AE-1",Line Completion,,ts
+843,"ME-T1, ME-T2","ME-S2, ME-T1","ME-S2, ME-T1",Line Completion,if,ts
+844,"AE-2, AE-1","AE-2, AE-1","AE-2, AE-1",Line Completion,,ts
+845,"AE-2, AE-1","AE-2, AE-1","AE-2, AE-1",Line Completion,,ts
+846,AE-3,AE-3,AE-3,NA,,ts
+847,"ME-T3, ME-S1","ME-T1, ME-T2","ME-T3, ME-S1",Line Completion,.,ts
+848,"ME-T3, ME-T2",ME-T3,"ME-T1, ME-T3",Line Completion,=,ts
+849,NA-1,NA-1,NA-1,NA,/,ts
+850,"ME-T1, ME-S1",UO-1,"ME-S3, ME-T1",Line Completion,.,ts
+851,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+852,UO-1,UO-1,UO-1,Line Completion,.,ts
+853,"ME-T1, ME-S1","ME-S3, ME-T4","ME-T1, ME-S1",Line Edit,,ts
+854,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,ts
+855,"ME-T1, AE-1",UO-1,"ME-T1, AE-1",Partial Line Completion,,ts
+856,"ME-S2, ME-T1","ME-T1, ME-T2","ME-T3, ME-T2",Line Completion,=,ts
+857,"ME-T2, AE-1",UO-1,"ME-T2, AE-1",Partial Line Completion,,ts
+858,"ME-T2, ME-S1","ME-T2, ME-S1",UO-1,Line Completion,.,ts
+859,"ME-T1, NA-2","ME-T2, NA-2",NA-2,Line Completion,.,ts
+860,ME-T2,ME-T2,ME-T2,Line Completion,=,ts
+861,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+862,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+863,NA-1,NA-1,NA-1,NA,[,ts
+864,UO-1,UO-1,UO-1,Line Completion,=,ts
+865,"AE-2, ME-T3",ME-T3,"ME-T1, ME-T3",Line Completion,=,ts
+866,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+867,NA-1,NA-1,NA-1,NA,.,ts
+868,AE-3,AE-3,AE-3,NA,.,ts
+869,ME-T3,ME-S7,UO-1,Line Edit,==,ts
+870,AE-3,AE-3,AE-3,NA,,ts
+871,"ME-S2, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Completion,,ts
+872,"ME-T2, ME-S1",ME-T2,ME-T2,Line Completion,.,ts
+873,"ME-S3, ME-T3","ME-T2, ME-T3","ME-T2, ME-S1",Line Completion,if,ts
+874,"ME-T1, ME-T2",UO-1,"ME-T1, ME-T2",Line Completion,=,ts
+875,"ME-T1, ME-T2","ME-S2, ME-T2","ME-T1, ME-T2",Line Completion,.,ts
+876,NA-1,NA-1,NA-1,NA,.,ts
+877,UO-1,"ME-S4, ME-T2",UO-1,Partial Line Completion,.,ts
+878,"AE-1, ME-T4","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+879,ME-T2,ME-T2,"ME-S3, ME-T2",Partial Line Completion,",",ts
+880,ME-T1,ME-T1,"ME-T1, ME-T2",Partial Line Completion,.,ts
+881,"ME-T2, ME-S6","ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,.,ts
+882,"ME-S3, ME-T4","ME-S4, ME-T1","ME-S4, ME-T1",NA,(,ts
+883,"ME-S3, ME-T1",UO-1,"ME-S3, ME-T1",Line Completion,=,ts
+884,"ME-T1, ME-T2","ME-S3, ME-T2","ME-S3, ME-T2",Partial Line Completion,+,ts
+885,UO-1,UO-1,UO-1,Line Completion,;,ts
+886,"ME-T1, ME-T2",ME-T1,ME-T1,Line Edit,return,ts
+887,"AE-1, ME-T4","ME-S2, AE-1","AE-1, ME-T4",Partial Line Completion,,ts
+888,"ME-S6, NA-2","ME-S6, NA-2","ME-S6, NA-2",Line Edit,(,ts
+889,NA-1,NA-1,NA-1,NA,-,ts
+890,"ME-S2, ME-T3","ME-T3, ME-S1",ME-S2,Line Completion,=,ts
+891,ME-T2,UO-1,"ME-S2, ME-T2",Line Completion,.,ts
+892,"ME-T2, ME-T3","ME-T3, ME-T2","ME-T3, ME-T2",Line Completion,.,ts
+893,ME-T2,UO-1,"ME-T1, ME-T2",Partial Line Completion,.,ts
+894,UO-1,UO-1,"ME-T3, ME-T4",Line Completion,|,ts
+895,ME-T1,UO-1,ME-T1,Line Completion,,ts
+896,"ME-S3, ME-S7",ME-T3,UO-1,Line Completion,=,ts
+897,"ME-S2, AE-1","ME-S7, AE-1","ME-S2, AE-1",Partial Line Completion,,ts
+898,"AE-2, ME-S5","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+899,UO-1,UO-1,UO-1,Line Edit,.,ts
+900,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+901,NA-1,NA-1,NA-1,NA,,ts
+902,"ME-S1, ME-T4","ME-T1, ME-S1","ME-S5, AE-1",Line Edit,,ts
+904,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,.,ts
+905,"ME-S2, ME-T3","ME-T1, ME-S7","ME-S7, AE-1",Partial Line Completion,=,ts
+906,"AE-2, NA-2","AE-2, NA-2","AE-2, NA-2",Line Completion,.,ts
+907,UO-1,UO-1,"ME-S2, ME-T4",Line Edit,>,ts
+908,"AE-2, ME-T3",ME-T3,ME-T3,Partial Line Completion,.,ts
+909,"AE-2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+910,NA-1,NA-1,NA-1,NA,.,ts
+911,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+912,"ME-T3, AE-1","AE-1, UO-2","ME-T3, AE-1",Partial Line Completion,,ts
+913,"UO-1, UO-2","ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,=,ts
+914,UO-1,UO-1,UO-1,Line Completion,.,ts
+915,"ME-T2, ME-S1",ME-T2,ME-T2,Line Edit,await,ts
+916,UO-1,UO-1,UO-1,Line Completion,=,ts
+917,"ME-T1, ME-T3","ME-T2, UO-2",ME-S5,Line Completion,.,ts
+918,"ME-T1, ME-T2","ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,if,ts
+919,UO-1,UO-1,UO-1,Partial Line Completion,,ts
+920,NA-2,NA-2,NA-2,Line Completion,=,ts
+921,"ME-T1, AE-4","ME-T3, AE-4","ME-T3, AE-4",Line Completion,.,ts
+922,"ME-S2, ME-T2","AE-2, ME-T2","AE-2, ME-S2",Line Completion,.,ts
+923,"AE-2, AE-1","AE-2, AE-1","AE-2, AE-1",Line Completion,,ts
+924,"ME-S3, ME-T1","ME-T2, ME-S1","ME-S4, ME-S1",Line Edit,-,ts
+925,"ME-T2, ME-S1",ME-T2,ME-T2,Line Completion,await,ts
+926,"ME-S2, ME-T1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,.,ts
+927,"ME-T2, ME-T3","AE-2, UO-2","AE-2, UO-2",Line Completion,.,ts
+928,"ME-S5, ME-T4",ME-T4,ME-T4,Partial Line Completion,<,ts
+929,"ME-S5, NA-1",NA-1,NA-1,NA,=,ts
+930,"ME-T1, ME-T3","ME-T2, UO-2","ME-T1, ME-T3",Line Completion,.,ts
+931,"ME-T1, AE-2","ME-T1, ME-S2",ME-T1,Line Edit,=,ts
+932,"ME-S6, NA-1",NA-1,NA-1,NA,",",ts
+933,"ME-T2, AE-1","ME-T2, AE-1","ME-S5, AE-1",Line Edit,,ts
+934,ME-T1,ME-T1,ME-T1,Partial Line Completion,.,ts
+935,"ME-S3, ME-T1","ME-S2, ME-T1",ME-T1,Line Completion,.,ts
+936,UO-1,UO-1,UO-1,Line Edit,",",ts
+937,ME-T3,ME-T3,ME-T3,Line Edit,+,ts
+938,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+939,"AE-1, UO-2","AE-1, UO-2","UO-1, AE-1",Partial Line Completion,,ts
+940,AE-3,AE-3,AE-3,NA,.,ts
+941,ME-T1,UO-1,ME-T1,Partial Line Completion,.,ts
+942,"AE-2, ME-T3","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,ts
+943,NA-1,NA-1,NA-1,NA,=,ts
+944,"ME-T1, ME-S2",UO-1,"ME-T1, ME-S2",Line Completion,=,ts
+945,UO-1,UO-1,UO-1,Line Completion,.,ts
+946,UO-1,UO-1,UO-1,Line Completion,,ts
+947,"ME-T1, ME-S1","ME-S4, ME-S1","ME-S4, ME-S1",Partial Line Completion,.,ts
+948,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,.,ts
+949,NA-1,NA-1,NA-1,NA,,ts
+950,"ME-T1, ME-T2","AE-2, ME-T1","ME-T1, ME-T2",Partial Line Completion,",",ts
+951,ME-T1,ME-T1,"ME-S3, ME-T2",Partial Line Completion,,ts
+952,"AE-2, ME-T3","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+953,"ME-T1, ME-T3","ME-T2, ME-T3","ME-T1, ME-T3",Line Completion,.,ts
+954,UO-1,"ME-T1, ME-T2",ME-S4,Line Completion,=,ts
+955,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+956,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,ts
+957,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+958,NA-1,NA-1,NA-1,NA,/,ts
+959,ME-T4,UO-1,ME-T4,Partial Line Completion,{,ts
+960,UO-1,ME-T2,"ME-S4, ME-T1",Line Completion,.,ts
+961,"ME-T3, AE-1","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,ts
+962,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+963,"ME-T2, ME-S1",ME-T3,"ME-T2, ME-T3",Line Completion,.,ts
+964,ME-T4,ME-T4,ME-T4,Line Edit,(,ts
+965,"AE-2, NA-2","AE-2, NA-2","AE-2, NA-2",NA,(,ts
+966,"ME-T3, ME-S1","ME-T2, ME-S1","ME-T1, ME-S1",Line Edit,(,ts
+967,"ME-T1, AE-1","ME-S1, AE-1","ME-S1, AE-1",Partial Line Completion,,ts
+968,"ME-S4, ME-T2","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,ts
+969,AE-3,AE-3,AE-3,NA,.,ts
+970,AE-3,AE-3,AE-3,NA,,ts
+971,UO-1,"ME-T3, UO-2","ME-T3, UO-2",Line Edit,",",ts
+972,"ME-T1, AE-1","ME-T1, AE-1","ME-T2, AE-1",Partial Line Completion,,ts
+973,NA-1,NA-1,NA-1,NA,/,ts
+974,NA-1,NA-1,NA-1,NA,(,ts
+976,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,ts
+977,"ME-T1, ME-T3","ME-T3, ME-T2",ME-T3,Line Completion,.,ts
+978,"ME-S2, ME-T2","ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,.,ts
+979,ME-T1,UO-1,ME-T1,Partial Line Completion,.,ts
+980,"NA-1, AE-1",NA-1,NA-1,NA,,ts
+981,NA-2,NA-2,NA-2,NA,(,ts
+982,"ME-T1, ME-T3","ME-T2, UO-2",UO-2,Partial Line Completion,.,ts
+983,ME-S7,"ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,=,ts
+984,UO-1,"ME-T1, AE-1","ME-T1, AE-1",Line Completion,,ts
+985,NA-1,NA-1,NA-1,NA,/,ts
+986,"ME-T2, ME-S1",ME-T2,ME-T2,Line Completion,.,ts
+987,NA-1,NA-1,NA-1,NA,>,ts
+988,"AE-2, ME-S5","AE-2, ME-T3","AE-2, ME-T3",Line Edit,.,ts
+989,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,ts
+990,"ME-S1, AE-1","ME-T1, AE-1","ME-S2, AE-1",Partial Line Completion,,ts
+991,"ME-S5, NA-1","NA-1, AE-1","ME-S5, NA-1",NA,,ts
+992,NA-1,NA-1,NA-1,NA,/,ts
+1005,NA-1,NA-1,NA-1,NA,=,tsx
+1006,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S5",Partial Line Completion,=,tsx
+1007,"AE-2, ME-T2","ME-S4, ME-T3","ME-T2, ME-S7",Line Completion,/,tsx
+1008,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S7",Partial Line Completion,=,tsx
+1009,"AE-2, ME-S5",UO-1,"ME-T1, ME-S5",Partial Line Completion,",",tsx
+1010,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, ME-T3",Line Edit,(,tsx
+1011,ME-T3,"ME-S4, ME-S1","ME-T3, ME-S1",Partial Line Completion,-,tsx
+1012,"ME-T1, ME-T2",UO-1,"ME-S2, AE-2",Line Completion,=,tsx
+1013,"ME-S2, ME-T2",UO-1,"ME-S2, ME-T2",Line Completion,=,tsx
+1014,"ME-T1, ME-S1","ME-S4, AE-2","ME-T1, ME-S1",Line Edit,(,tsx
+1015,"ME-T1, UO-3","ME-T1, UO-3","ME-T1, UO-3",Line Completion,=,tsx
+1016,UO-1,"ME-S2, ME-T2",UO-1,Line Edit,>,tsx
+1017,"ME-T2, ME-S1","ME-S4, ME-S1","ME-T2, ME-S1",Line Completion,<,tsx
+1018,ME-T3,"AE-1, UO-2","ME-T3, AE-1",Partial Line Completion,,tsx
+1019,"ME-S3, ME-S1","ME-T3, ME-S1","ME-S3, ME-S1",Line Edit,%,tsx
+1020,ME-T3,"AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,tsx
+1021,"ME-S7, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,=,tsx
+1023,"ME-T2, ME-S1","ME-S4, ME-S7","ME-T1, ME-T2",Line Completion,=,tsx
+1024,"ME-T1, ME-T3","ME-S2, UO-2","ME-T3, UO-3",Line Edit,(,tsx
+1025,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,=,tsx
+1026,UO-1,UO-1,"ME-T1, ME-S2",Partial Line Completion,",",tsx
+1027,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,tsx
+1028,"ME-T3, ME-S5",ME-T3,"ME-S2, ME-T3",Line Edit,",",tsx
+1029,"ME-T2, AE-1","UO-1, AE-1","ME-T1, AE-1",Partial Line Completion,,tsx
+1030,"ME-T3, AE-1","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,tsx
+1031,ME-S5,ME-T3,ME-T3,Line Edit,;,tsx
+1032,"ME-S4, ME-T3","UO-1, UO-2",ME-T3,Line Edit,==,tsx
+1033,ME-T1,"ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,,tsx
+1034,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,tsx
+1035,"ME-S5, ME-S1",ME-T3,"ME-T3, ME-T2",Line Edit,{,tsx
+1036,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,tsx
+1037,"ME-S4, ME-T3","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,tsx
+1038,"ME-T2, ME-S1","ME-S2, UO-3","ME-S3, ME-T3",Line Completion,=,tsx
+1039,"ME-T1, ME-T2","ME-T2, ME-S1","ME-T1, ME-T2",Line Completion,<,tsx
+1041,"ME-T2, ME-S1",ME-T2,"ME-T2, ME-S1",Line Completion,<,tsx
+1042,NA-2,NA-2,NA-2,NA,=,tsx
+1043,"ME-T1, ME-T3","ME-T1, ME-T3","ME-T1, AE-1",Line Completion,|,tsx
+1044,"ME-S4, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,tsx
+1045,"ME-S3, ME-T1","ME-S3, ME-T1","ME-S3, ME-T1",Line Edit,(,tsx
+1046,NA-2,NA-2,NA-2,Line Edit,(,tsx
+1047,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,tsx
+1048,NA-1,NA-1,NA-1,NA,.,tsx
+1049,"ME-S3, ME-S2",ME-S4,"ME-T2, ME-S1",Partial Line Completion,=,tsx
+1050,"ME-T3, ME-S1",ME-T3,"ME-T3, ME-S1",Partial Line Completion,=,tsx
+1051,NA-1,NA-1,NA-1,NA,,tsx
+1052,"AE-2, ME-S5","ME-T3, ME-S1","ME-T3, ME-S1",Line Edit,=,tsx
+1053,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,tsx
+1054,ME-T1,ME-T1,ME-T1,Partial Line Completion,",",tsx
+1055,"AE-2, ME-S5","ME-T1, ME-T2","ME-T1, ME-S1",Line Edit,(,tsx
+1056,"ME-T1, ME-S2",ME-S3,ME-S3,Line Completion,.,tsx
+1057,"AE-2, ME-S5","ME-S4, AE-2",ME-S4,Line Completion,/,tsx
+1058,"ME-T1, ME-S2",ME-T3,"ME-S2, ME-T3",Partial Line Completion,==,tsx
+1060,"AE-4, AE-1","AE-4, AE-1","AE-4, AE-1",Partial Line Completion,,tsx
+1061,"ME-T3, ME-S1","ME-T1, ME-T3","ME-T1, ME-T3",Line Edit,-,tsx
+1062,ME-S3,"ME-T2, ME-S1","ME-T2, ME-S1",Partial Line Completion,>,tsx
+1063,"ME-T1, ME-T2",UO-1,UO-1,Line Completion,.,tsx
+1064,"ME-S2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,tsx
+1065,"ME-T3, ME-S1","ME-S3, ME-T3","ME-T3, ME-S1",Partial Line Completion,=,tsx
+1066,"ME-T2, ME-S1","ME-T2, ME-T3","ME-T2, ME-S1",Line Completion,<,tsx
+1067,UO-1,UO-1,UO-1,Line Edit,(,tsx
+1068,"ME-T3, ME-T4","ME-T3, ME-T4","ME-T1, ME-T3",Partial Line Completion,==,tsx
+1069,"ME-T1, ME-T2","ME-T1, ME-S1",ME-T4,Line Edit,[,tsx
+1070,"AE-2, ME-S5","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,tsx
+1071,UO-2,"ME-S4, ME-S1","ME-S2, ME-T3",Partial Line Completion,=,tsx
+1072,"ME-T2, ME-S1",ME-T4,"ME-S2, ME-T2",Line Completion,.,tsx
+1073,"ME-S3, ME-T1","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,.,tsx
+1074,NA-1,NA-1,NA-1,NA,=,tsx
+1075,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,=,tsx
+1076,NA-1,NA-1,NA-1,NA,!=,tsx
+1077,NA-1,NA-1,"NA-1, AE-1",NA,,tsx
+1078,"ME-T1, AE-1","ME-S7, AE-1","ME-T1, AE-1",Partial Line Completion,,tsx
+1079,"ME-S1, AE-4","AE-4, AE-1","AE-4, AE-1",Partial Line Completion,,tsx
+1080,UO-1,UO-1,UO-1,Partial Line Completion,(,tsx
+1081,"AE-2, ME-S5",ME-S7,"ME-T1, ME-S7",Line Edit,.,tsx
+1082,"ME-T1, ME-T2",UO-1,"ME-T1, ME-T2",Line Edit,[,tsx
+1083,NA-1,NA-1,NA-1,NA,,tsx
+1084,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,(,tsx
+1085,ME-T3,"AE-1, UO-2","AE-1, UO-2",Partial Line Completion,.,tsx
+1086,AE-2,UO-1,"AE-2, ME-S2",Line Edit,=,tsx
+1087,AE-3,AE-3,AE-3,NA,,tsx
+1088,"ME-T1, ME-T2","ME-T1, ME-T2","ME-T1, ME-T2",Line Edit,.,tsx
+1089,"ME-T3, ME-S1","ME-T3, AE-1","ME-T3, AE-1",Line Edit,,tsx
+1090,"ME-T1, ME-T2",UO-1,"ME-T1, ME-T2",Line Edit,",",tsx
+1091,"ME-T1, ME-T3","ME-S2, UO-2",ME-T3,Partial Line Completion,=,tsx
+1092,"ME-T1, ME-T3","ME-T2, UO-2","ME-T1, ME-T3",Line Completion,.,tsx
+1093,"ME-T1, AE-1","ME-T3, AE-1","ME-S2, AE-1",Partial Line Completion,,tsx
+1094,ME-T3,UO-1,UO-1,Line Edit,(,tsx
+1095,"ME-T1, AE-1","ME-S2, AE-1","ME-T1, AE-1",Partial Line Completion,,tsx
+1096,NA-1,NA-1,NA-1,NA,=,tsx
+1097,"ME-T2, ME-S1","ME-T1, ME-T4","ME-T1, ME-S2",Line Completion,=,tsx
+1098,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,<,tsx
+1100,"ME-T1, ME-S2","ME-S2, ME-T1","ME-S2, ME-T1",Partial Line Completion,.,tsx
+1101,"NA-2, ME-S1","NA-2, ME-S1","NA-2, ME-S1",NA,(,tsx
+1103,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,tsx
+1104,"ME-S3, ME-T3",ME-T3,"AE-2, ME-T3",Partial Line Completion,=,tsx
+1105,"ME-S2, AE-1","ME-T2, AE-1","ME-S2, AE-1",Partial Line Completion,,tsx
+1106,"ME-S4, ME-S1",ME-T1,"ME-T1, ME-S1",Line Edit,[,tsx
+1107,"ME-T3, ME-S6","ME-T3, ME-T4","ME-T3, ME-T4",Line Completion,=,tsx
+1108,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S5",Line Completion,<,tsx
+1109,NA-1,NA-1,NA-1,NA,==,tsx
+1110,AE-3,AE-3,AE-3,NA,{,tsx
+1111,"ME-S7, AE-1","ME-T1, AE-1","ME-S2, AE-1",Partial Line Completion,=,tsx
+1112,"NA-1, AE-1","NA-1, AE-1","NA-1, AE-1",NA,,tsx
+1113,"ME-T3, ME-S7",UO-2,"ME-T3, ME-S7",Partial Line Completion,=,tsx
+1114,"AE-2, ME-S5","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,=,tsx
+1115,"ME-T2, AE-1","UO-1, AE-1",ME-S3,Partial Line Completion,,tsx
+1116,"ME-T3, AE-1","AE-1, UO-2","ME-T3, AE-1",Partial Line Completion,,tsx
+1117,"ME-T3, ME-S1","ME-S4, ME-S1","ME-T3, ME-S1",Partial Line Completion,=,tsx
+1118,UO-1,"ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,",",tsx
+1119,"AE-2, NA-2","AE-2, NA-2","AE-2, NA-2",Line Completion,<,tsx
+1120,"ME-T1, AE-1","ME-T2, AE-1","ME-T1, AE-1",Line Completion,,tsx
+1121,NA-1,NA-1,NA-1,NA,<,tsx
+1122,UO-1,UO-1,"ME-T1, ME-S2",Line Completion,return,tsx
+1123,NA-2,NA-2,NA-2,NA,{,tsx
+1124,AE-3,AE-3,AE-3,NA,.,tsx
+1125,"ME-T2, ME-S1","AE-2, ME-T2","ME-T2, ME-S1",Line Completion,<,tsx
+1126,AE-3,AE-3,AE-3,NA,-,tsx
+1127,NA-1,NA-1,NA-1,NA,=,tsx
+1128,UO-1,"AE-2, ME-T3","AE-2, ME-T3",NA,,tsx
+1129,UO-1,UO-1,UO-1,NA,,tsx
+1130,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,tsx
+1131,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,=,tsx
+1132,"ME-S7, AE-1","AE-2, AE-1","ME-S7, AE-1",Line Completion,=,tsx
+1133,"ME-T3, ME-S1","ME-T3, ME-S1","ME-S3, ME-T3",Partial Line Completion,=,tsx
+1134,NA-2,NA-2,NA-2,NA,(,tsx
+1135,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,tsx
+1136,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, ME-S5",Partial Line Completion,,tsx
+1137,"ME-T3, AE-1","ME-T3, AE-1",UO-1,Partial Line Completion,,tsx
+1138,"ME-T1, ME-T3",UO-1,ME-T1,Partial Line Completion,(,tsx
+1139,NA-1,NA-1,NA-1,NA,==,tsx
+1140,"ME-T2, ME-S1","ME-T2, ME-S6","ME-T2, ME-S6",Line Completion,<,tsx
+1141,"ME-T3, ME-S1","ME-T1, ME-S1","ME-T3, ME-S1",Partial Line Completion,=,tsx
+1142,ME-T1,"ME-S2, ME-T2","ME-T1, ME-T2",Partial Line Completion,.,tsx
+1143,"AE-2, ME-T3","ME-T3, ME-S1","AE-2, ME-S5",Partial Line Completion,=,tsx
+1144,NA-1,NA-1,NA-1,NA,=,tsx
+1145,"ME-S3, ME-T3",ME-T3,"ME-T3, ME-S7",Partial Line Completion,=,tsx
+1146,"AE-2, ME-S1","ME-T1, ME-S1","AE-2, ME-S1",Partial Line Completion,",",tsx
+1147,"ME-T3, ME-S7",ME-T3,"ME-T3, ME-S7",Line Edit,=,tsx
+1148,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Partial Line Completion,(,tsx
+1149,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,tsx
+1150,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,tsx
+1151,NA-1,NA-1,NA-1,NA,,tsx
+1152,AE-3,AE-3,AE-3,NA,{,tsx
+1153,"ME-T2, ME-T3","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,tsx
+1154,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,tsx
+1155,"ME-T3, ME-T4","ME-S2, ME-T3",ME-T3,Partial Line Completion,(,tsx
+1156,"ME-T1, ME-T2","ME-S2, ME-T1","ME-T1, ME-T2",Line Edit,(,tsx
+1157,NA-1,NA-1,NA-1,NA,",",tsx
+1158,"NA-2, ME-S1","NA-2, ME-S1","NA-2, ME-S1",NA,",",tsx
+1159,NA-1,NA-1,NA-1,NA,return,tsx
+1160,NA-1,NA-1,NA-1,NA,<,tsx
+1161,"ME-S7, ME-S1","ME-T3, ME-S1","ME-T3, ME-S5",Partial Line Completion,=,tsx
+1162,AE-3,AE-3,AE-3,NA,-,tsx
+1163,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S1",Partial Line Completion,,tsx
+1164,ME-T2,"ME-T2, ME-S1","ME-T3, ME-S1",Line Completion,.,tsx
+1165,"ME-T1, ME-T3","ME-S4, ME-S7","ME-T3, ME-S1",Partial Line Completion,=,tsx
+1166,"NA-2, ME-S1","NA-2, ME-S1","NA-2, ME-S1",Line Edit,(,tsx
+1167,"ME-S3, ME-S1",UO-1,"ME-S3, AE-2",Partial Line Completion,,tsx
+1168,"AE-2, ME-S1","AE-2, ME-S1","AE-2, ME-T3",Partial Line Completion,",",tsx
+1169,"ME-T2, ME-S1","ME-T3, ME-S1","ME-S3, ME-S1",Line Edit,,tsx
+1170,"ME-T3, ME-S1",UO-2,"ME-S4, ME-S1",Partial Line Completion,=,tsx
+1171,NA-1,NA-1,NA-1,NA,>,tsx
+1172,ME-T1,ME-T1,ME-T1,Line Completion,=,tsx
+1173,"ME-T1, ME-T3",ME-T3,"ME-T1, ME-T3",Line Edit,(,tsx
+1174,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S5",Line Completion,<,tsx
+1175,"ME-T1, NA-2","ME-T1, NA-2","ME-T1, NA-2",NA,.,tsx
+1176,NA-1,NA-1,NA-1,NA,",",tsx
+1177,"ME-T2, ME-T3","ME-T1, ME-T3","ME-T2, ME-T3",Line Completion,=,tsx
+1178,"ME-S5, NA-1",NA-1,NA-1,NA,=,tsx
+1179,NA-2,NA-2,NA-2,Line Edit,.,tsx
+993,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Completion,(,vue
+994,NA-2,NA-2,NA-2,Line Completion,<,vue
+995,ME-T1,ME-T1,ME-T1,Line Completion,.,vue
+996,NA-1,NA-1,NA-1,NA,>,vue
+997,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Completion,(,vue
+998,"ME-S2, ME-T1","ME-T1, ME-S2","ME-T1, ME-S2",Line Completion,(,vue
+999,UO-1,ME-T1,UO-1,Line Completion,.,vue
+1000,NA-1,NA-1,NA-1,NA,<,vue
+1001,NA-1,NA-1,NA-1,NA,-,vue
+1002,NA-1,NA-1,NA-1,NA,=,vue
+1003,"NA-1, AE-4","NA-1, AE-4","NA-1, AE-4",NA,-,vue
+1004,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Completion,(,vue
+1843,"ME-T2, ME-S7",UO-1,"ME-S4, ME-S7",Line Completion,/,other
+1844,NA-2,NA-2,NA-2,Line Completion,<,other
+1845,ME-T2,ME-T2,ME-T2,Line Completion,<,other
+1846,ME-T1,"ME-T1, ME-T3","ME-T1, ME-S2",Line Completion,.,other
+1847,NA-1,NA-1,NA-1,NA,<,other
+1848,ME-T2,ME-S7,"ME-T2, ME-S1",Line Completion,<,other
+1849,"ME-T1, AE-2","AE-2, ME-T3","ME-T1, ME-T3",Line Completion,{,other
+1850,"ME-S7, AE-4","ME-S7, AE-4","ME-S7, AE-4",Line Completion,[,other
+1852,UO-2,"ME-S3, UO-2",ME-T3,Line Completion,=,other
+1853,"ME-T2, ME-S1",ME-T2,"ME-T2, ME-S1",Line Completion,<,other
+1854,"ME-S2, ME-T2","ME-T1, ME-S2","ME-T1, ME-T2",Line Completion,.,other
+1855,"ME-T2, NA-2","ME-T2, NA-2","ME-T2, NA-2",Line Completion,<,other
+1856,ME-T1,ME-T1,ME-T1,Line Completion,(,other
+1857,NA-2,NA-2,NA-2,Line Completion,(,other
+1858,"ME-S4, ME-T2",ME-S4,"ME-T2, ME-S7",Line Completion,/,other
+1859,"ME-T1, ME-S6","ME-T1, ME-T2","ME-T1, ME-T2",Line Completion,.,other
+1860,NA-1,NA-1,NA-1,NA,return,other
+1862,ME-T2,ME-T2,ME-T2,Line Completion,<,other
+1863,"UO-1, NA-2",NA-2,NA-2,Line Completion,return,other
+1864,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Completion,(,other
+1866,NA-1,NA-1,NA-1,NA,return,other
+1867,ME-S5,ME-S4,"ME-T2, ME-S7",Line Completion,/,other
+1868,"ME-S3, ME-T4",ME-T4,"ME-T1, ME-S1",Line Completion,(,other
+1869,"AE-2, ME-S5","AE-2, ME-T1","AE-2, ME-T1",Line Completion,{,other
+1870,"ME-S1, NA-2","ME-S1, NA-2","ME-S1, NA-2",Line Completion,(,other
+1871,UO-1,ME-S4,"ME-S3, ME-T3",Line Completion,/,other
+1872,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,-,other
+1874,"ME-T2, ME-S1",UO-1,ME-T2,Line Completion,<,other
+1875,ME-S7,ME-S4,"ME-T2, ME-S7",Line Completion,/,other
+1876,"ME-T2, ME-S1",ME-T2,ME-T2,Line Completion,<,other
+1877,"ME-S3, UO-3","ME-T2, ME-S1","ME-S3, UO-3",Line Completion,.,other
+1878,"ME-S4, ME-S1",ME-S1,ME-S1,Line Completion,(,other
+1879,"UO-1, NA-2","ME-T2, NA-2","ME-T2, NA-2",Line Completion,<,other
+1880,ME-T2,ME-T2,ME-T2,Line Completion,<,other
+1881,ME-T1,"AE-2, ME-T1","AE-2, ME-T1",Line Completion,|,other
+1882,"ME-S6, NA-2","ME-T1, NA-2","ME-T1, NA-2",Line Completion,(,other
+1883,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S1",Line Completion,<,other
+1884,"ME-T2, ME-S1",UO-1,"AE-2, ME-T2",Line Completion,<,other
+1885,"AE-2, ME-S5",UO-1,"ME-T1, ME-T2",Line Completion,.,other
+1886,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,/,other
+1887,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+1888,"ME-T1, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,,other
+1889,NA-1,NA-1,NA-1,NA,(,other
+1890,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+1891,NA-2,NA-2,NA-2,NA,,other
+1892,UO-1,UO-1,UO-1,Line Edit,",",other
+1893,"ME-S3, ME-T2","ME-S3, ME-T2","ME-S3, ME-T2",Line Edit,",",other
+1894,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,+,other
+1895,NA-1,NA-1,NA-1,NA,(,other
+1896,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+1897,"ME-T3, ME-S5",ME-T3,ME-T3,Partial Line Completion,",",other
+1898,NA-1,NA-1,NA-1,NA,,other
+1899,"AE-2, ME-T1","ME-T1, AE-2","AE-2, ME-T1",Line Edit,(,other
+1901,NA-1,NA-1,NA-1,NA,,other
+1902,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+1903,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,other
+1904,"ME-S2, ME-T3","ME-T1, AE-1","ME-S7, AE-1",Line Edit,-,other
+1905,NA-1,NA-1,"NA-1, AE-1",NA,,other
+1906,NA-1,NA-1,NA-1,NA,/,other
+1907,ME-S7,"ME-S3, AE-2","AE-2, ME-S7",Line Edit,&,other
+1908,"ME-S2, AE-1","ME-S7, AE-1",ME-S5,NA,-,other
+1909,"ME-T1, ME-T3","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,(,other
+1910,"ME-S5, NA-1",NA-1,NA-1,NA,,other
+1911,"ME-S7, AE-4","ME-T3, AE-4","ME-S7, AE-4",Line Completion,",",other
+1912,NA-1,NA-1,NA-1,NA,",",other
+1913,"ME-T1, AE-1","ME-S1, AE-1","ME-T1, AE-1",Line Edit,,other
+1914,"ME-S2, ME-T2","ME-S2, ME-T1","ME-T1, ME-S2",Line Edit,(,other
+1915,NA-1,NA-1,"NA-1, AE-1",NA,-,other
+1916,"ME-S2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,other
+1917,NA-1,NA-1,NA-1,NA,=,other
+1918,NA-1,NA-1,NA-1,NA,,other
+1919,"ME-S1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,other
+1920,UO-1,UO-1,UO-1,Partial Line Completion,for,other
+1921,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,other
+1922,"ME-S3, ME-T2","ME-S3, ME-T2","ME-S3, ME-T2",Line Completion,<,other
+1924,"ME-S2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,other
+1925,"AE-2, ME-T1","ME-S2, AE-2","ME-S2, AE-2",Line Completion,=,other
+1926,NA-1,NA-1,NA-1,NA,{,other
+1927,"AE-2, ME-T3",UO-1,"ME-T3, AE-1",Line Completion,,other
+1928,ME-T2,ME-T2,UO-1,Line Edit,(,other
+1929,AE-3,AE-3,AE-3,NA,(,other
+1930,NA-1,NA-1,NA-1,NA,,other
+1931,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,other
+1933,"AE-2, ME-T3","ME-T3, ME-S1","ME-T3, ME-S1",Line Completion,,other
+1934,NA-1,NA-1,"ME-S5, NA-1",NA,;,other
+1935,"ME-T1, AE-1","ME-T1, AE-1","ME-S2, AE-1",Line Completion,,other
+1936,"ME-S3, ME-S2",UO-1,UO-1,Line Edit,.,other
+1937,"AE-4, NA-1","NA-1, AE-4","NA-1, AE-4",NA,.,other
+1938,"ME-T2, ME-T3",UO-1,"ME-T2, ME-T3",Line Edit,.,other
+1939,ME-S7,UO-1,"ME-S2, ME-S7",Line Completion,%,other
+1940,NA-1,NA-1,NA-1,NA,,other
+1941,ME-T1,UO-1,"ME-T1, ME-S2",Line Completion,=,other
+1943,"ME-T1, ME-S2","ME-S2, ME-T1","ME-S2, ME-T1",Line Edit,(,other
+1944,"ME-T3, AE-4","AE-2, AE-4","AE-2, AE-4",Line Completion,-,other
+1946,NA-1,NA-1,NA-1,NA,,other
+1947,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,/,other
+1948,NA-1,NA-1,NA-1,NA,,other
+1949,UO-1,"ME-S2, AE-2","ME-S2, ME-T3",Line Completion,=,other
+1950,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+1951,NA-1,NA-1,NA-1,NA,,other
+1952,"ME-S3, ME-T1",ME-T2,"ME-S3, ME-T2",Line Edit,",",other
+1953,"ME-S2, AE-1","ME-S7, AE-1","ME-S7, AE-1",Line Completion,,other
+1954,"AE-1, UO-2","AE-1, UO-2","AE-1, UO-2",Partial Line Completion,,other
+1955,NA-1,NA-1,"ME-S5, NA-1",NA,/,other
+1956,NA-1,NA-1,NA-1,NA,,other
+1957,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Line Completion,%,other
+1958,NA-1,NA-1,NA-1,NA,,other
+1959,"ME-T2, ME-S6","ME-T1, ME-T3",UO-1,Line Completion,",",other
+1960,"ME-T3, ME-S1",ME-T3,"ME-T3, ME-S1",Line Edit,-,other
+1961,"ME-S1, AE-1","ME-S3, ME-S1","ME-S3, ME-S1",Partial Line Completion,&,other
+1962,NA-1,NA-1,NA-1,NA,<,other
+1963,NA-1,NA-1,NA-1,NA,%,other
+1964,NA-1,NA-1,NA-1,NA,.,other
+1965,"ME-T3, ME-S6","AE-2, ME-T3","AE-2, ME-T3",Line Completion,=,other
+1966,ME-T3,"ME-T1, ME-T3",ME-T3,Line Completion,=,other
+1967,"AE-2, AE-1","AE-2, AE-1","AE-2, AE-1",Line Completion,,other
+1968,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,other
+1969,NA-1,NA-1,NA-1,NA,,other
+1970,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,other
+1971,"ME-S5, NA-2","AE-2, NA-2","AE-2, NA-2",NA,[,other
+1972,ME-T1,"ME-T1, ME-T3","AE-2, ME-S5",Partial Line Completion,(,other
+1973,"ME-T3, AE-1","ME-T3, AE-1","ME-T3, AE-1",Line Completion,,other
+1974,"ME-T1, ME-S2","ME-T1, ME-T3","ME-T1, ME-T2",Line Edit,(,other
+1975,"ME-T1, ME-T2","ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,=,other
+1976,UO-1,ME-T2,UO-1,Line Completion,<,other
+1977,UO-1,"ME-T1, ME-T3",UO-1,Line Completion,=,other
+1978,NA-1,NA-1,NA-1,NA,,other
+1979,"ME-T1, ME-T2",UO-1,"ME-S2, ME-T2",Line Completion,.,other
+1980,"ME-T3, ME-S1","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,-,other
+1981,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,",",other
+1982,"AE-2, ME-S6","AE-2, ME-T2","ME-T2, ME-S1",Line Edit,",",other
+1983,"ME-T2, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+1984,"ME-S2, AE-1","ME-S2, AE-1","ME-T2, AE-1",Line Completion,,other
+1985,"ME-T2, ME-S1","ME-S2, ME-T2","ME-S2, ME-T2",Line Completion,if,other
+1986,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,other
+1987,"ME-S4, ME-T1","ME-S4, ME-S1","ME-S4, ME-T1",Partial Line Completion,.,other
+1988,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+1989,"ME-S3, ME-T1",ME-T3,"ME-S3, ME-T3",Partial Line Completion,=,other
+1990,"AE-2, ME-S1","ME-S4, ME-S1","ME-T1, ME-T3",Partial Line Completion,",",other
+1991,"AE-2, ME-T2","AE-2, ME-T2","ME-T2, ME-S1",Line Completion,.,other
+1992,"ME-S4, ME-T2","ME-T1, ME-T3",UO-1,Partial Line Completion,[,other
+1993,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,>,other
+1994,"ME-T3, ME-S7",ME-T3,"ME-S3, ME-T3",Partial Line Completion,=,other
+1995,"ME-T2, ME-S1","ME-T2, ME-S1","ME-T2, ME-S1",Partial Line Completion,(,other
+1996,AE-3,AE-3,AE-3,NA,",",other
+1998,"ME-T3, ME-S7","ME-T3, ME-S7","ME-T3, ME-S7",Partial Line Completion,=,other
+1999,NA-1,NA-1,NA-1,NA,{,other
+2000,"ME-T1, ME-T3","ME-T1, ME-T3",UO-1,Partial Line Completion,/,other
+2001,"ME-T2, AE-4","ME-S5, AE-4","ME-T2, AE-4",Line Completion,.,other
+2002,"UO-1, NA-2",NA-2,NA-2,Line Edit,>,other
+2003,"ME-S3, ME-T3","ME-T3, AE-1","ME-T3, AE-1",Line Edit,,other
+2004,NA-1,NA-1,NA-1,NA,/,other
+2005,"ME-T1, ME-T3",UO-1,UO-1,Line Completion,=,other
+2006,NA-1,NA-1,NA-1,NA,",",other
+2007,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+2008,NA-1,"AE-2, NA-1","AE-2, NA-1",NA,,other
+2009,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,other
+2010,NA-1,NA-1,NA-1,NA,{,other
+2011,"AE-2, ME-T2","AE-2, ME-T2","AE-2, ME-S7",Line Completion,.,other
+2012,NA-1,NA-1,NA-1,NA,,other
+2013,"NA-2, UO-2","NA-2, UO-2","NA-2, UO-2",Line Completion,>,other
+2014,"ME-S6, AE-4","ME-T1, AE-4","ME-T1, AE-4",Partial Line Completion,+,other
+2015,"ME-S5, NA-2",NA-2,NA-2,Partial Line Completion,",",other
+2016,NA-1,NA-1,"AE-2, NA-1",NA,,other
+2017,NA-1,NA-1,NA-1,NA,,other
+2018,"ME-S2, AE-1","AE-2, AE-1","AE-2, AE-1",Line Completion,,other
+2019,"ME-S2, ME-T2","ME-T1, ME-S1",ME-T1,Line Completion,,other
+2020,"ME-S2, AE-1","ME-T2, AE-1","ME-S2, AE-1",Line Completion,,other
+2021,"ME-T1, ME-S5","ME-S4, ME-S1",ME-T1,Partial Line Completion,.,other
+2022,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,/,other
+2023,ME-T4,"ME-S2, ME-S7","ME-S2, ME-S7",Partial Line Completion,(,other
+2024,"ME-T3, ME-S1","ME-T3, ME-S1","ME-T3, ME-S1",Partial Line Completion,=,other
+2025,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,other
+2026,NA-1,NA-1,NA-1,NA,,other
+2027,"ME-S4, AE-1",UO-1,"AE-2, AE-1",Line Completion,,other
+2028,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,>,other
+2029,"AE-2, NA-1",NA-1,NA-1,NA,,other
+2030,"ME-S4, ME-T2",ME-T1,"ME-T1, ME-T2",Line Completion,=,other
+2031,NA-1,NA-1,NA-1,NA,/,other
+2032,"ME-S4, AE-1",UO-1,"ME-S7, AE-1",Line Completion,,other
+2033,"ME-S5, NA-1",NA-1,NA-1,NA,,other
+2034,UO-2,"ME-T1, ME-S7",UO-2,Partial Line Completion,,other
+2036,"AE-1, ME-T4","AE-1, ME-T4","AE-1, ME-T4",Partial Line Completion,,other
+2037,UO-1,UO-1,"ME-T1, ME-T2",Partial Line Completion,.,other
+2038,"NA-1, AE-1",NA-1,NA-1,NA,,other
+2039,UO-1,UO-1,UO-1,Line Completion,(,other
+2040,NA-1,NA-1,NA-1,NA,,other
+2041,"ME-T2, ME-S1",ME-T2,"ME-T2, ME-S1",Line Completion,<,other
+2042,NA-2,NA-2,NA-2,NA,,other
+2043,"ME-S5, NA-1","NA-1, AE-1","NA-1, AE-1",NA,,other
+2044,"ME-S1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,other
+2045,UO-1,"ME-S4, ME-T1","ME-S4, ME-T1",Partial Line Completion,+,other
+2046,NA-1,NA-1,NA-1,NA,,other
+2047,"ME-S7, AE-4","UO-1, AE-4","ME-S4, AE-4",Partial Line Completion,[,other
+2048,"ME-T3, ME-S5",ME-T3,"ME-T1, ME-T3",Line Edit,(,other
+2049,"ME-S7, AE-1","ME-S7, AE-1","ME-S7, AE-1",Line Completion,=,other
+2050,ME-T3,ME-T3,ME-T3,Partial Line Completion,+,other
+2051,"ME-T2, ME-T3","ME-S4, ME-T2","ME-T2, ME-T3",Line Completion,=,other
+2052,"ME-S3, ME-T2","ME-S3, ME-T2","ME-S3, ME-T2",Line Edit,",",other
+2053,"ME-T1, ME-T2",ME-T1,"ME-T1, ME-T2",Line Completion,=,other
+2054,UO-1,UO-1,"ME-T3, AE-1",Line Completion,,other
+2056,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,other
+2057,NA-1,"ME-S5, NA-1","ME-S5, NA-1",NA,/,other
+2058,"ME-S7, AE-1","AE-1, ME-T4","ME-T2, AE-1",Line Completion,,other
+2059,NA-1,NA-1,NA-1,NA,%,other
+2060,"ME-T2, AE-1",UO-2,"ME-S2, AE-1",Line Completion,,other
+2061,"ME-S5, NA-1",NA-1,"ME-S5, NA-1",NA,*,other
+2062,"ME-S5, NA-1",NA-1,NA-1,NA,,other
+2063,"AE-2, AE-1","AE-2, AE-1","AE-2, AE-1",Line Completion,,other
+2064,UO-1,UO-1,UO-1,Line Completion,,other
+2065,UO-1,"ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,other
+2066,UO-1,UO-1,UO-1,Line Completion,=,other
+2067,NA-1,NA-1,NA-1,NA,[,other
+2068,ME-T3,"ME-T1, ME-T3","ME-T2, ME-T3",Line Edit,+,other
+2069,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,,other
+2070,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,is,other
+2071,"ME-S7, AE-1","ME-S2, AE-1","ME-S2, AE-1",Line Completion,-,other
+2072,"ME-T1, NA-2","ME-T1, NA-2","NA-2, ME-T4",Line Edit,<,other
+2073,"AE-2, ME-S5","ME-T3, AE-1","ME-T3, AE-1",Line Completion,,other
+2074,"ME-T3, ME-T4",ME-T3,"ME-T3, ME-S7",Partial Line Completion,=,other
+2075,UO-2,UO-1,"ME-T1, ME-T3",Partial Line Completion,(,other
+2076,NA-1,NA-1,NA-1,NA,and,other
+2077,"ME-S4, ME-T2","AE-2, ME-T3","ME-S4, ME-T3",Partial Line Completion,=,other
+2078,"ME-S3, ME-S7","ME-S2, ME-T1","ME-S2, ME-S1",Line Edit,(,other
+2079,"ME-S3, ME-T1","ME-T1, ME-T2","ME-T1, AE-1",Partial Line Completion,,other
+2080,"ME-S5, NA-1",NA-1,NA-1,NA,,other
+2081,"ME-S2, AE-1","ME-S2, AE-1","ME-S2, AE-1",Line Completion,,other
+2082,"AE-2, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,(,other
+2083,"NA-1, AE-1",NA-1,"AE-2, NA-1",NA,,other
+2084,"ME-T3, ME-S1",ME-T3,"ME-T1, ME-T3",Partial Line Completion,,other
+2085,"ME-S4, ME-T3","ME-T1, ME-T3","AE-2, ME-T3",Partial Line Completion,=,other
+2086,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+2087,"ME-T1, ME-T2","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,(,other
+2088,ME-S1,"ME-T1, ME-S1","ME-T1, ME-S1",Line Completion,,other
+2089,"ME-T2, ME-T3","ME-T2, ME-T3","ME-T2, UO-3",Line Edit,(,other
+2090,NA-1,NA-1,NA-1,NA,[,other
+2091,"ME-S5, NA-1",NA-1,NA-1,NA,,other
+2092,NA-1,NA-1,NA-1,NA,,other
+2093,"ME-S2, AE-1","AE-1, ME-T4","ME-S5, AE-1",Line Completion,,other
+2095,"ME-T3, NA-2","ME-T3, NA-2","ME-S1, NA-2",Line Edit,-,other
+2096,NA-1,NA-1,NA-1,NA,**,other
+2097,NA-1,NA-1,NA-1,NA,,other
+2098,"ME-T1, ME-T2","ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,>,other
+2099,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,other
+2100,ME-T3,UO-1,ME-T3,Line Completion,%,other
+2101,UO-1,"AE-2, ME-S1",UO-1,Line Completion,.,other
+2102,UO-1,UO-1,UO-1,Partial Line Completion,=,other
+2103,ME-T3,"ME-T3, AE-1","ME-T3, AE-1",Partial Line Completion,,other
+2104,ME-T2,UO-1,UO-1,Line Edit,,other
+2105,"ME-T2, ME-S1",UO-1,UO-1,Line Completion,return,other
+2106,NA-1,NA-1,NA-1,NA,(,other
+2107,UO-1,UO-1,UO-1,Partial Line Completion,%,other
+2108,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,other
+2109,NA-1,NA-1,NA-1,NA,,other
+2110,NA-1,NA-1,NA-1,NA,,other
+2111,"ME-T1, ME-S2","ME-S2, ME-T1","ME-T1, ME-S7",Line Edit,(,other
+2112,"ME-S2, ME-T3","ME-S2, AE-1","ME-S2, AE-1",Line Edit,>,other
+2113,ME-T2,UO-1,ME-T1,Line Completion,*,other
+2114,"ME-T1, ME-T3",ME-T3,"ME-T3, ME-S7",Line Completion,",",other
+2115,NA-1,NA-1,NA-1,NA,",",other
+2116,"ME-S2, ME-T3","ME-S2, UO-3","ME-T3, ME-S1",Line Edit,[,other
+2118,AE-3,AE-3,AE-3,NA,,other
+2120,"ME-T2, ME-S1",ME-T1,"ME-T1, ME-T2",Line Completion,=,other
+2121,NA-1,NA-1,NA-1,NA,,other
+2122,NA-1,NA-1,NA-1,NA,,other
+2123,NA-1,NA-1,NA-1,NA,+,other
+2124,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,other
+2125,"AE-2, AE-1","ME-T2, AE-1","ME-S7, AE-1",Line Completion,,other
+2126,UO-1,UO-1,UO-1,Line Completion,=,other
+2127,NA-1,NA-1,NA-1,NA,for,other
+2128,"ME-S1, UO-2",UO-2,UO-2,Line Completion,else,other
+2129,NA-1,NA-1,"ME-S5, NA-1",NA,=,other
+2130,"AE-2, ME-S5","AE-2, ME-T1","AE-2, ME-T1",Line Completion,=,other
+2131,NA-1,NA-1,NA-1,NA,+,other
+2132,"AE-2, ME-S5","AE-2, AE-1","AE-2, AE-1",NA,,other
+2133,"ME-S4, ME-S1","ME-S2, ME-S1","ME-S4, ME-S1",Partial Line Completion,&,other
+2134,NA-1,NA-1,NA-1,NA,,other
+2135,ME-T1,UO-1,ME-T1,Partial Line Completion,(,other
+2136,"NA-2, ME-S1","NA-2, ME-S1","NA-2, ME-S1",NA,(,other
+2137,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Edit,,other
+2138,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,.,other
+2139,UO-1,"ME-S2, ME-S7",ME-S2,Partial Line Completion,,other
+2140,"AE-2, ME-S5","ME-T1, ME-S1","ME-T1, ME-S1",Line Edit,(,other
+2141,NA-1,NA-1,NA-1,NA,,other
+2142,"ME-S2, AE-1","ME-T2, AE-1","ME-T2, AE-1",NA,-,other
+2143,AE-3,AE-3,AE-3,NA,(,other
+2144,"ME-S3, ME-T1",ME-T1,"ME-S3, ME-T1",Line Edit,(,other
+2145,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,other
+2146,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Partial Line Completion,,other
+2147,"ME-S4, ME-S1",ME-T2,"ME-S4, ME-S1",Line Completion,<,other
+2148,"ME-T3, ME-S1","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,[,other
+2149,"ME-T1, AE-1",ME-T3,"AE-2, ME-S5",Line Completion,,other
+2150,AE-3,AE-3,AE-3,NA,,other
+2151,NA-1,NA-1,NA-1,NA,,other
+2152,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,+,other
+2153,"AE-2, ME-T3","AE-2, UO-2","AE-2, UO-2",Partial Line Completion,,other
+2154,"UO-1, UO-2","ME-S3, UO-2","ME-S3, UO-2",Line Completion,+,other
+2155,"ME-S7, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,other
+2156,NA-1,NA-1,NA-1,NA,/,other
+2158,"ME-S5, NA-1",NA-1,NA-1,NA,,other
+2159,"ME-S5, NA-1",NA-1,NA-1,NA,%,other
+2160,UO-1,UO-1,ME-T3,Line Completion,.,other
+2161,UO-1,UO-1,"ME-S3, ME-S7",Line Edit,(,other
+2162,"ME-T2, ME-T3","ME-T2, ME-T3","ME-T2, ME-T3",Line Edit,,other
+2163,"ME-T3, ME-S1","ME-T2, ME-T3","AE-2, ME-T3",Line Completion,.,other
+2164,UO-1,"ME-S4, ME-T3",UO-1,Line Completion,if,other
+2165,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,other
+2166,UO-1,ME-T4,UO-1,Line Completion,<,other
+2167,NA-1,NA-1,NA-1,NA,.,other
+2168,ME-T3,ME-T3,ME-T3,Partial Line Completion,{,other
+2169,"ME-T1, ME-T2","ME-S3, ME-T1","ME-T1, ME-S1",Line Edit,(,other
+2170,NA-1,NA-1,NA-1,NA,%,other
+2171,"ME-S6, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+2172,"ME-T2, ME-S1","ME-T1, ME-S1","ME-T1, ME-S1",Partial Line Completion,",",other
+2173,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,,other
+2174,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",Partial Line Completion,-,other
+2175,"ME-T3, ME-S1",ME-T2,UO-1,Line Completion,,other
+2177,ME-T3,UO-1,ME-T3,Line Completion,>,other
+2178,NA-1,NA-1,NA-1,NA,,other
+2179,NA-1,NA-1,NA-1,NA,,other
+2180,"ME-S3, ME-T2","ME-T1, ME-T2","ME-T2, ME-S5",Line Completion,+,other
+2182,"UO-1, NA-2","UO-1, NA-2","ME-T3, NA-2",NA,;,other
+2183,"ME-T1, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,other
+2184,NA-1,NA-1,NA-1,NA,,other
+2185,"ME-T1, AE-2","ME-S3, ME-T1","ME-S3, ME-T1",Line Completion,.,other
+2186,ME-S7,"ME-T1, ME-T3","ME-T1, ME-T3",Line Completion,",",other
+2187,UO-1,UO-1,UO-1,Line Completion,else,other
+2188,NA-1,NA-1,NA-1,NA,;,other
+2189,"ME-T1, ME-T2","AE-2, ME-T2","ME-T2, ME-T3",Line Completion,=,other
+2190,AE-3,AE-3,AE-3,NA,,other
+2191,AE-3,AE-3,AE-3,NA,&,other
+2192,"ME-S3, ME-T1",UO-1,ME-T3,Line Completion,=,other
+2193,"ME-T1, AE-1","ME-T1, AE-1","ME-T1, AE-1",Line Completion,,other
+2194,"ME-S6, AE-1","ME-T1, AE-1","ME-T1, AE-1",Partial Line Completion,,other
+2195,"AE-2, NA-1","AE-2, NA-1","AE-2, NA-1",NA,,other
+2196,NA-1,NA-1,NA-1,NA,,other
+2197,NA-2,"ME-T3, NA-2","ME-S4, NA-2",Partial Line Completion,(,other
+2198,NA-2,NA-2,NA-2,Partial Line Completion,(,other
+2199,"AE-2, ME-S2",ME-T2,"AE-2, AE-1",Line Completion,,other
+2200,"ME-S5, AE-1","ME-T1, AE-1","ME-S5, AE-1",Partial Line Completion,,other
+2201,NA-1,NA-1,NA-1,NA,,other
+2202,NA-1,NA-1,NA-1,NA,,other
+2203,"ME-S3, ME-T2",ME-T2,"ME-S3, ME-T2",Line Edit,.,other
+2204,"ME-T2, NA-2","ME-T2, NA-2","ME-T2, NA-2",Line Completion,.,other
+2205,NA-1,NA-1,NA-1,NA,%,other
+2206,"AE-2, ME-T3","AE-2, ME-T3","AE-2, ME-T3",NA,,other
+2207,NA-1,NA-1,NA-1,NA,.,other
+2208,"UO-1, AE-1",UO-1,UO-1,Partial Line Completion,,other
+2209,ME-T1,UO-1,"ME-T2, ME-T4",Line Completion,=,other
+2210,NA-1,NA-1,NA-1,NA,(,other
+2211,AE-3,AE-3,AE-3,NA,/,other
+2212,NA-1,NA-1,NA-1,NA,,other
+2213,"AE-2, ME-T3","ME-T3, ME-S6","AE-2, ME-T3",Line Completion,",",other
+2214,"ME-T1, ME-T3","AE-2, ME-T3","ME-T2, ME-T3",Partial Line Completion,.,other
+2215,"ME-S2, AE-1","AE-2, AE-1","AE-2, AE-1",Partial Line Completion,,other
+2216,"ME-T2, AE-1","ME-T2, AE-1","ME-T2, AE-1",Line Completion,,other
+1832,NA-1,NA-1,NA-1,NA,-,yaml
+1833,NA-1,NA-1,NA-1,NA,^,yaml
+1834,NA-1,NA-1,NA-1,NA,^,yaml
+1835,NA-1,NA-1,NA-1,NA,^,yaml
+1836,NA-1,NA-1,NA-1,NA,-,yaml
+1837,NA-1,NA-1,NA-1,NA,/,yaml
+1838,NA-1,NA-1,NA-1,NA,[,yaml
+1839,NA-1,NA-1,NA-1,NA,/,yaml
+1840,NA-1,NA-1,NA-1,NA,-,yaml
+1841,NA-1,NA-1,NA-1,NA,,yaml
+1842,NA-1,NA-1,NA-1,NA,,yaml
+1467,NA-1,NA-1,NA-1,NA,,json
+1468,NA-1,NA-1,NA-1,NA,/,json
+1469,NA-1,NA-1,NA-1,NA,,json
+1470,NA-1,NA-1,NA-1,NA,=,json
+1471,NA-1,NA-1,NA-1,NA,.,json
+1472,NA-1,NA-1,NA-1,NA,/,json
+1473,NA-1,NA-1,NA-1,NA,,json
+1474,NA-1,NA-1,NA-1,NA,,json
+1475,NA-1,NA-1,NA-1,NA,,json
+1476,NA-1,NA-1,NA-1,NA,/,json
+1477,NA-1,NA-1,NA-1,NA,/,json
+1478,NA-1,NA-1,NA-1,NA,,json
+1479,NA-1,NA-1,NA-1,NA,,json
+1480,NA-1,NA-1,NA-1,NA,.,json
+1481,NA-1,NA-1,NA-1,NA,,json
+1482,NA-1,NA-1,NA-1,NA,,json
+1483,NA-1,NA-1,NA-1,NA,,json
+1484,NA-1,NA-1,NA-1,NA,-,json
+1485,NA-1,NA-1,NA-1,NA,,json
+1486,NA-1,NA-1,NA-1,NA,,json
+1487,NA-1,NA-1,NA-1,NA,,json
+1488,NA-1,NA-1,NA-1,NA,,json
+1489,NA-1,NA-1,NA-1,NA,.,json
+1490,NA-1,NA-1,NA-1,NA,,json
+1491,NA-1,NA-1,NA-1,NA,,json
+1492,NA-1,NA-1,NA-1,NA,/,json
+1493,NA-1,NA-1,NA-1,NA,,json
+1494,NA-1,NA-1,NA-1,NA,[,json
+1495,NA-1,NA-1,NA-1,NA,/,json
+1496,NA-1,NA-1,NA-1,NA,",",json
+1497,NA-1,NA-1,NA-1,NA,,json
+1498,NA-1,NA-1,NA-1,NA,,json
+1499,NA-1,NA-1,NA-1,NA,/,json
+1500,NA-1,NA-1,NA-1,NA,,json
+1501,NA-1,NA-1,NA-1,NA,-,json
+1502,NA-1,NA-1,NA-1,NA,,json
+1503,NA-1,NA-1,NA-1,NA,,json
+1504,NA-1,NA-1,NA-1,NA,,json
+1505,NA-1,NA-1,NA-1,NA,=,json
+1506,NA-1,NA-1,NA-1,NA,,json
+1507,NA-1,NA-1,NA-1,NA,/,json
+1508,NA-1,NA-1,NA-1,NA,.,json
+1509,NA-1,NA-1,NA-1,NA,/,json
+1510,NA-1,NA-1,NA-1,NA,,json
+1511,NA-1,NA-1,NA-1,NA,,json
+1512,NA-1,NA-1,NA-1,NA,,json
+1513,NA-1,NA-1,NA-1,NA,,json
+1514,NA-1,NA-1,NA-1,NA,=,json
+1515,NA-1,NA-1,NA-1,NA,,json
+1516,NA-1,NA-1,NA-1,NA,/,json
+1517,NA-1,NA-1,NA-1,NA,,json
+1518,NA-1,NA-1,NA-1,NA,,json
+1519,NA-1,NA-1,NA-1,NA,,json
+1520,NA-1,NA-1,NA-1,NA,,json
+1521,NA-1,NA-1,NA-1,NA,=,json
+1522,NA-1,NA-1,NA-1,NA,,json
+2,NA-1,NA-1,NA-1,NA,,
+12,NA-1,NA-1,NA-1,NA,,
+26,NA-1,NA-1,NA-1,NA,,
+43,NA-1,NA-1,NA-1,NA,,
+294,NA-1,NA-1,NA-1,NA,,
+298,NA-1,NA-1,NA-1,NA,,
+300,NA-1,NA-1,NA-1,NA,,
+339,NA-1,NA-1,NA-1,NA,,
+416,NA-1,NA-1,NA-1,NA,,
+465,NA-1,NA-1,NA-1,NA,,
+532,NA-1,NA-1,NA-1,NA,,
+571,NA-1,NA-1,NA-1,NA,,
+574,NA-1,NA-1,NA-1,NA,,
+594,NA-1,NA-1,NA-1,NA,,
+599,NA-1,NA-1,NA-1,NA,,
+600,NA-1,NA-1,NA-1,NA,,
+607,NA-1,NA-1,NA-1,NA,,
+612,NA-1,NA-1,NA-1,NA,,
+650,NA-1,NA-1,NA-1,NA,,
+654,NA-1,NA-1,NA-1,NA,,
+678,NA-1,NA-1,NA-1,NA,,
+818,NA-1,NA-1,NA-1,NA,,
+827,NA-1,NA-1,NA-1,NA,,
+831,NA-1,NA-1,NA-1,NA,,
+842,NA-1,NA-1,NA-1,NA,,
+903,NA-1,NA-1,NA-1,NA,,
+975,NA-1,NA-1,NA-1,NA,,
+1022,NA-1,NA-1,NA-1,NA,,
+1040,NA-1,NA-1,NA-1,NA,,
+1059,NA-1,NA-1,NA-1,NA,,
+1099,NA-1,NA-1,NA-1,NA,,
+1102,NA-1,NA-1,NA-1,NA,,
+1191,NA-1,NA-1,NA-1,NA,,
+1231,NA-1,NA-1,NA-1,NA,,
+1236,NA-1,NA-1,NA-1,NA,,
+1241,NA-1,NA-1,NA-1,NA,,
+1267,NA-1,NA-1,NA-1,NA,,
+1269,NA-1,NA-1,NA-1,NA,,
+1316,NA-1,NA-1,NA-1,NA,,
+1385,NA-1,NA-1,NA-1,NA,,
+1409,NA-1,NA-1,NA-1,NA,,
+1611,NA-1,NA-1,NA-1,NA,,
+1620,NA-1,NA-1,NA-1,NA,,
+1623,NA-1,NA-1,NA-1,NA,,
+1636,NA-1,NA-1,NA-1,NA,,
+1641,NA-1,NA-1,NA-1,NA,,
+1642,NA-1,NA-1,NA-1,NA,,
+1643,NA-1,NA-1,NA-1,NA,,
+1644,NA-1,NA-1,NA-1,NA,,
+1645,NA-1,NA-1,NA-1,NA,,
+1646,NA-1,NA-1,NA-1,NA,,
+1647,NA-1,NA-1,NA-1,NA,,
+1648,NA-1,NA-1,NA-1,NA,,
+1649,NA-1,NA-1,NA-1,NA,,
+1650,NA-1,NA-1,NA-1,NA,,
+1651,NA-1,NA-1,NA-1,NA,,
+1652,NA-1,NA-1,NA-1,NA,,
+1653,NA-1,NA-1,NA-1,NA,,
+1654,NA-1,NA-1,NA-1,NA,,
+1655,NA-1,NA-1,NA-1,NA,,
+1656,NA-1,NA-1,NA-1,NA,,
+1657,NA-1,NA-1,NA-1,NA,,
+1658,NA-1,NA-1,NA-1,NA,,
+1659,NA-1,NA-1,NA-1,NA,,
+1660,NA-1,NA-1,NA-1,NA,,
+1661,NA-1,NA-1,NA-1,NA,,
+1662,NA-1,NA-1,NA-1,NA,,
+1663,NA-1,NA-1,NA-1,NA,,
+1664,NA-1,NA-1,NA-1,NA,,
+1665,NA-1,NA-1,NA-1,NA,,
+1666,NA-1,NA-1,NA-1,NA,,
+1667,NA-1,NA-1,NA-1,NA,,
+1668,NA-1,NA-1,NA-1,NA,,
+1669,NA-1,NA-1,NA-1,NA,,
+1670,NA-1,NA-1,NA-1,NA,,
+1671,NA-1,NA-1,NA-1,NA,,
+1734,NA-1,NA-1,NA-1,NA,,
+1772,NA-1,NA-1,NA-1,NA,,
+1783,NA-1,NA-1,NA-1,NA,,
+1789,NA-1,NA-1,NA-1,NA,,
+1812,NA-1,NA-1,NA-1,NA,,
+1851,NA-1,NA-1,NA-1,NA,,
+1861,NA-1,NA-1,NA-1,NA,,
+1865,NA-1,NA-1,NA-1,NA,,
+1873,NA-1,NA-1,NA-1,NA,,
+1900,NA-1,NA-1,NA-1,NA,,
+1923,NA-1,NA-1,NA-1,NA,,
+1932,NA-1,NA-1,NA-1,NA,,
+1942,NA-1,NA-1,NA-1,NA,,
+1945,NA-1,NA-1,NA-1,NA,,
+1997,NA-1,NA-1,NA-1,NA,,
+2035,NA-1,NA-1,NA-1,NA,,
+2055,NA-1,NA-1,NA-1,NA,,
+2094,NA-1,NA-1,NA-1,NA,,
+2117,NA-1,NA-1,NA-1,NA,,
+2119,NA-1,NA-1,NA-1,NA,,
+2157,NA-1,NA-1,NA-1,NA,,
+2176,NA-1,NA-1,NA-1,NA,,
+2181,NA-1,NA-1,NA-1,NA,,
+2217,NA-1,NA-1,NA-1,NA,,
